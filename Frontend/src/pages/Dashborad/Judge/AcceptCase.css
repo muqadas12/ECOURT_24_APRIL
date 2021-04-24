@@ -1,0 +1,45 @@
+.acceptcase{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.casenumberlabel{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    margin-left: 520px;
+
+}
+.dateofhearinglabel{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    margin-left: 520px;
+}
+input[type="date"]{
+    margin-left: 20px;
+    width: 13.5%;
+}
+input[type="texttexttext"]{
+    margin-left: 30px;
+}
+input[type="texttexttextpn"]{
+    margin-left: 43px;
+}
+.caseaccptprocedd{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+
+}
+hr.accc{
+  border: 1px solid black;  
+  width:160px;
+  margin-left:45%;
+}
+.assign-btn{
+    color:white;
+    background-color: rgb(7, 57, 114);
+    border-color:rgb(7, 57, 114);
+    margin-left: 630px;
+}

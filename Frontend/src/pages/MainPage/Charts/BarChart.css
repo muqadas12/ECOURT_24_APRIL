@@ -1,0 +1,29 @@
+.A{
+    display: flex;
+    justify-content: center;
+}
+.chart{
+    width:720px;
+    
+}
+.court-heading-1{
+    text-align: center;
+}
+
+.back-button{
+    background-color: rgb(228, 228, 166);
+    border: none;
+    margin-left: -710px;
+}
+@media screen and (max-width: 300px) {
+    .A{
+        width: 45px;
+    }
+    .chart{
+        width: 45px;
+    }
+    .forward-button{
+        width: 35px;
+        
+    }
+}

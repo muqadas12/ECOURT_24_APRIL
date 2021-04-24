@@ -1,0 +1,130 @@
+[
+    
+    {
+        "Caseno": "1",
+        "Caseyear": "2010",
+        "Status":"pending",
+        "CaseName":"Criminal"
+        
+    },
+    {
+        "Caseno": "1052",
+        "Caseyear": "2010",
+        "Status":"solve",
+        "CaseName":"other"
+
+    },
+    {
+        "Caseno": "839",
+        "Caseyear": "2010",
+        "Status":"solve",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "177",
+        "Caseyear": "2015",
+        "Status":"pending",
+        "CaseName":"Criminal"
+    },
+    {
+        "Caseno": "179",
+        "Caseyear": "2015",
+        "Status":"solve",
+        "CaseName":"Criminal"
+    },
+    {
+        "Caseno": "111",
+        "Caseyear": "2014",
+        "Status":"pending",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "112",
+        "Caseyear": "2014",
+        "Status":"pending",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "996",
+        "Caseyear": "2019",
+        "Status":"solve",
+        "CaseName":"Criminal"
+        
+        
+    },
+    {
+        "Caseno": "901",
+        "Caseyear": "2020",
+        "Status":"solve",
+        "CaseName":"Criminal"
+    },
+    {
+        "Caseno": "10",
+        "Caseyear": "2006",
+        "Status":"submitted",
+        "CaseName":"Criminal"
+    },
+    {  
+        "Caseno": "10",
+        "Caseyear": "2018",
+        "Status":"pending",
+        "CaseName":"Criminal"
+    },
+    {
+
+        "Caseno": "1048",
+        "Caseyear": "2017",
+        "Status":"solve",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "857",
+        "Caseyear": "2017",
+        "Status":"pending",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "1240",
+        "Caseyear": "2013",
+        "Status":"solve",
+        "CaseName":"Criminal"
+    },
+    {
+        "Caseno": "1159",
+        "Caseyear": "2014",
+        "Status":"pending",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "1001",
+        "Caseyear": "2004",
+        "Status":"solve",
+        "CaseName":"Criminal"
+    },
+    {
+        "Caseno": "-693",
+        "Caseyear": "2005",
+        "Status":"solve",
+        "CaseName":"other"
+    },
+    { 
+        "Caseno": "34",
+        "Caseyear": "2006",
+        "Status":"pending",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "999",
+        "Caseyear": "2014",
+        "Status":"solve",
+        "CaseName":"other"
+    },
+    {
+        "Caseno": "1014",
+        "Caseyear": "2018",
+        "Status":"pending",
+        "CaseName":"other"
+    }
+
+
+]

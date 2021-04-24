@@ -1,0 +1,189 @@
+.case-year-cause{
+    margin-left: 70px;
+}
+.fix-update-cause{
+    margin-left: 100px;
+}
+.lawyer-update-list{
+    margin-left: 90px;
+}
+input[type="textsrnocms"]{
+    margin-left: -10px;
+    width:30px
+}
+.srnocmsupdate{
+    font-weight: bold;
+}
+.party-list-update{
+    margin-left: 120px;
+}
+.lawyer-update-list{
+margin-left: 22%;
+}
+.pncauselist{
+    font-weight: bold;
+}
+.fixtime-list{
+    margin-left: -10px;
+    
+}
+/* .case-year-cause{
+    font-weight: bold;
+} */
+
+/* .fix-update-cause{
+} */
+.causelist-image{
+    position: relative;
+    margin-left: 30%;
+    height: 400px;
+    margin-top: -50px;
+}
+
+.causelists-image{
+    position: relative;
+    
+    margin-left: 27%;
+    height: 400px;
+    margin-top: -50px;
+}
+
+input[type="textcasenumbercms"]{
+margin-left: 10px;
+width: 90px;
+}
+input[type="textcaseyearcms"]{
+    margin-left: -59px;
+    width: 90px;
+
+}
+textarea[type="textlawyernamecms"]{
+        margin-left: 20px;
+        
+}
+input[type="textfixtimecms"]{
+    margin-left: 15px;
+    width: 90px;
+
+
+}
+textarea[type="textpartynamecms"]{
+    margin-left: -20px;
+
+}
+.btn-update-causelist-cmsinf{
+    background-color: rgb(245, 89, 110);
+    color:white;
+    border-color:rgb(245, 89, 110);
+    font-weight: bold;
+width:90px;
+height: 30px;
+text-align: center;
+    
+}
+@media (max-width: 600px) {
+    .causelists-image{
+        position: relative;
+        height:200px;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: 19%;
+    }
+    input[ type="textcasenumbercms"]{
+        width:90px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    input[ type="textcaseyearcms"]{
+        width:90px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    textarea[type="textpartynamecms"]{
+        width:150px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    textarea[ type="textlawyernamecms"]{
+        width:150px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    input[ type="textfixtimecms"]{
+        width:90px;
+        margin-left:-30px;
+        margin-top:30px
+
+    }
+    .btn-update-causelist-cmsinf{
+        background-color: rgb(245, 89, 110);
+        color:white;
+        border-color:rgb(245, 89, 110);
+        font-weight: bold;
+    width:90px;
+    height: 30px;
+    text-align: center;
+    margin-top:30px
+
+
+        
+    }
+}
+
+
+@media (max-width: 750px) {
+    .causelists-image{
+        position: relative;
+        height:200px;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: 19%;
+    }
+    input[ type="textcasenumbercms"]{
+        width:90px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    input[ type="textcaseyearcms"]{
+        width:90px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    textarea[type="textpartynamecms"]{
+        width:150px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    textarea[ type="textlawyernamecms"]{
+        width:150px;
+        margin-left:-10px;
+        margin-top:30px
+
+    }
+    input[ type="textfixtimecms"]{
+        width:90px;
+        margin-left:-30px;
+        margin-top:30px
+
+    }
+    .btn-update-causelist-cmsinf{
+        background-color: rgb(245, 89, 110);
+        color:white;
+        border-color:rgb(245, 89, 110);
+        font-weight: bold;
+    width:90px;
+    height: 30px;
+    text-align: center;
+    margin-top:30px
+
+
+        
+    }
+}

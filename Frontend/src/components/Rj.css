@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+Image{
+    margin-left: -100px;
+    width:10px
+}
+.loginjudgedashboard{
+    position: relative;
+max-width: 100%;
+margin-top: -30px;
+margin-left: -5%;
+}
+}

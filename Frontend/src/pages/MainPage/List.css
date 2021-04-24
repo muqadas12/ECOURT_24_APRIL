@@ -1,0 +1,29 @@
+.card-lawyer-list{
+    width: 40rem;
+    margin:  20px ;
+    /* margin: 20px; */
+    padding: 20px;
+}
+.card-title-lawyer-list{
+    margin-left: -10px;
+}
+
+.card-lawyer-images[src]{
+width: 70px;
+}
+.icon-lawyer-phone{
+    margin-left: -20px;
+    margin-bottom: -30px;
+}
+@media (max-width: 600px) {
+    .card-lawyer-list{
+        width: 20rem;
+        margin:  20px ;
+        /* margin: 20px; */
+        padding: 20px;
+    }
+    .card-title-lawyer-list{
+        margin-left: -10px;
+        font-size: 17px;
+    }
+}

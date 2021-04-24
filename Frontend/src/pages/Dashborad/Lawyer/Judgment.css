@@ -1,0 +1,80 @@
+.judge-name-judg{
+    margin-left: -80%;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.select-judge-name-option{
+    width: 20%;
+    height: 40px;
+    margin-left: -74%;
+}
+.party-name-judgment{
+    margin-top: -70px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.select-prty-jugmnt{
+    width: 20%;
+    height: 40px;
+}
+
+.search-btn-of-judg{
+    margin-top: 70px;
+    margin-left: 300px;
+    width:10%;
+    margin-right: -50px;
+    height: 40px;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    border:none
+}
+
+@media screen and (max-width: 600px) {
+    .search-btn-of-judg{
+        margin-top: 70px;
+        margin-left: 120px;
+        width:30%;
+        margin-right: -50px;
+        height: 40px;
+        background-color: black;
+        color:white;
+        font-weight: bold;
+        border:none
+    }
+    .party-name-judgment{
+        margin-top: -80px;
+        margin-left:200px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+    .select-prty-jugmnt{
+        width: 30%;
+        height: 40px;
+        margin-left:200px
+    }
+    .judge-name-judg{
+        margin-left: -50%;
+        margin-top:40px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+    .select-judge-name-option{
+        width: 30%;
+        height: 40px;
+        margin-left: -40%;
+    }
+    .casesubjectjudgment{
+        margin-bottom: -99px;
+    }
+    .juddate{
+        margin-left: -90px;
+    }
+    .juddate{
+        margin-top:-90px
+    }
+}

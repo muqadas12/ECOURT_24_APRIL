@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    color: white;
+  }
+  
+  .split {
+    height: 70%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+margin-top: 210px;
+  }
+  
+  .left {
+    left: 0;
+    margin-top: 16%;
+    margin-left:120px;
+    background-image: url("../../../assets/Images/ll.jpg");
+    position: fixed;
+  }
+  
+  .right {
+    right: 0;
+    position: fixed;
+    /* background-image: url("../../../assets/Images/uci.jpg"); */
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .centered img {
+    width: 150px;
+    border-radius: 50%;
+  }
+.lawyer-login-form-one {
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 40px;
+  }
+  .email-login-lawyer{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+  }

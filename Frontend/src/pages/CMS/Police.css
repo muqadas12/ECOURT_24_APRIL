@@ -1,0 +1,122 @@
+.police-top{
+    margin-left: 26%;
+    
+}
+.police-head-one{
+    margin-left: 34%;
+    
+}
+.police-email{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 35%;
+    /* font-weight: bold; */
+}
+.texts-police{
+    margin-left: -60px;
+}
+.textsselect-police{
+    margin-left: 80px;
+}
+select[type="textsselect-police"]{
+    margin-left: 20px;
+    width:20%;
+    height:30px
+}
+input[type="texts-police"]{
+    margin-left: 20px;
+    width:20%;
+}
+.police-from{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 35%;
+}
+input[type="texts-police-two"]{
+    margin-left: 110px;
+    width:20%;
+}
+
+.upload-police-summon{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 35%;
+}
+input[type="textareaa"]{
+    margin-left: 87px;
+    width:20%;
+    height:70px
+}
+.submit-summon-police{
+    color:white;
+    background-color: rgb(92, 92, 241);
+    border:none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    height: 40px;
+    width:90px;
+    margin-top: 40px;
+    margin-left: 45%;
+}
+@media (max-width: 600px) {
+    .police-top{
+        position: relative;
+        height:150px;
+        max-width: 80%;
+        margin-top: -50px;
+        margin-left: 10%;
+        
+    }
+    .police-head-one{
+        margin-left: 15%;
+        font-size: 15px;
+        
+    }
+    .police-email{
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 15%;
+        /* font-weight: bold; */
+    }
+    .texts-police{
+        margin-left: -60px;
+    }
+    .textsselect-police{
+        margin-left: 80px;
+    }
+    select[type="textsselect-police"]{
+        margin-left: 20px;
+        width:30%;
+        height:30px
+    }
+    input[type="texts-police"]{
+        margin-left: 20px;
+        width:20%;
+    }
+    .police-from{
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 15%;
+    }
+    input[type="texts-police-two"]{
+        margin-left: 110px;
+        width:30%;
+    }
+    
+    .upload-police-summon{
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 10%;
+        margin-top: -50%;
+    }
+    input[type="textareaa"]{
+        margin-left: 87px;
+        width:30%;
+        height:70px
+    }
+    .submit-summon-police{
+        color:white;
+        background-color: rgb(92, 92, 241);
+        border:none;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        height: 40px;
+        width:90px;
+        margin-top: 40px;
+        margin-left: 45%;
+    }
+}

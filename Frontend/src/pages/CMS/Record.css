@@ -1,0 +1,646 @@
+.pdf-witness{
+    height:40px;
+    margin-left:3px;
+    margin-top:60px
+   
+}
+.pdf-vq{
+    height:40px;
+    margin-left:-230px;
+
+}
+
+.pdf-aff{
+    height:40px;
+    margin-left:-10px;
+
+}
+.pdf-vqtwo{
+    height:40px;
+    margin-left:-200px
+
+}
+
+
+.pdf-affthree{
+    height:40px;
+    margin-left: -290px;
+}
+.pdf-vaqaltthree{
+    height:40px;
+    margin-left: -200px;
+
+
+}
+.pdf-witthree{
+    height:40px;
+    margin-left: -150px;
+
+}
+.pdf-afffour{
+    height:40px;
+    margin-top: -20px;
+    margin-left: -280px;
+}
+.pdf-vaqalfour{
+    height:40px;
+    margin-top: -20px;
+
+    margin-left: -200px;
+}
+
+.pdf-afffive{
+    height:40px;
+    margin-left: -290px;
+    margin-top: -10px;
+
+}
+.pdf-vfive{
+    height:40px;
+    margin-left: -200px;
+}
+.pdffsff-wfive{
+    height:40px;
+}
+.pdf-wfive{
+    height:40px;
+    margin-bottom: -20px
+}
+/* .pdf-wfive{
+    height:40px;
+    margin-left: -100px;
+
+} */
+
+.pdf-afftwo{
+    height:40px;  
+    margin-left:-280px;
+}
+.affone{
+    margin-top:-470px;
+    margin-left:210px;
+
+}
+.vaqalone{
+    margin-top:-135px;
+    margin-left:740px
+}
+
+.wone{
+    margin-top:-130px;
+    margin-left:890px
+}
+.pdf-witness-one{
+    height:40px;
+    margin-bottom: -112px;
+    /* margin-top:10px; */
+    margin-left: -70px;
+}
+.wtwo{
+    margin-top:-130px;
+    margin-left:900px
+}
+.wittwo{
+    margin-left:-80px
+}
+.pdf-witnesstwo{
+    height:40px;
+    margin-left:-70px;
+    margin-bottom: -100px;
+    /* margin-bottom: 140px; */
+
+
+}
+.wfour{
+    margin-top:-140px;
+     margin-left:920px
+ }
+ .witnfour{
+    margin-left:-80px
+
+ }
+ .pdff-witfour{
+    /* margin-top: -20px; */
+    margin-left: -80px;
+    margin-bottom: -100px;
+
+    height:40px;
+}
+.wfive{
+    margin-top:-130px;
+     margin-left:910px
+ }
+.witnfive{
+    margin-left:-70px
+
+}
+.pdff-wfive{
+    height: 40px;
+    margin-bottom:-100px;
+    margin-left: -80px;
+
+}
+.wtthree{
+    margin-top:-120px;
+    margin-left:910px;
+}
+.pdf-witthree{
+    height:40px;
+    margin-left:-80px;
+    margin-bottom: -90px;
+}
+.pdfhj-witness{
+    height:40px
+}
+
+.afftwo{
+   margin-top:20px;
+    margin-left:490px
+}
+.affidavita{
+    margin-top: 5px;
+    margin-left:200px
+}
+.affidavith{
+    margin-left:10px
+}
+.affidavitf{
+    margin-top: 5px;
+    margin-left:-290px
+}
+.affidavitd{
+    margin-top: 5px;
+    margin-left:-290px
+}
+.affidavitmn{
+    margin-top: 5px;
+    margin-left:180px
+}
+.vakalatkundi{
+    margin-top: 5px;
+    margin-left:-190px
+}
+.witnessone{
+    margin-left:-90px;
+    margin-top: 10px;
+}
+.vaqaltwo{
+    margin-top:-135px;
+    margin-left:710px
+}
+.vatwo{
+    margin-left: -150px;
+}
+
+
+
+.affthree{
+    margin-top:-30px;
+     margin-left:500px
+ }
+ .vaqalthree{
+    margin-top:-130px;
+     margin-left:710px
+ }
+ .vathree{
+margin-left: -140px;
+ }
+ 
+ 
+ .witthre{
+    margin-left: -70px;
+
+ }
+ 
+ .afffour{
+    margin-top:-20px;
+     margin-left:490px
+ }
+ .vaqalfour{
+    margin-top:-120px;
+     margin-left:710px
+ }
+ .vafour{
+    margin-left:-150px;
+    margin-top: 16px;
+ }
+ 
+ 
+
+ .pdfone-aff{
+     height:40px;
+     margin-top:-10px;
+
+ }
+ .aff{
+    margin-left:500px;
+    margin-top:-5px;
+
+
+ }
+ /* .afffive{
+    margin-top:-300px;
+     margin-left:550px
+ } */
+ .vaqalfive{
+    margin-top:-120px;
+     margin-left:710px
+ }
+.vafive{
+    margin-left:-120px
+
+}
+ 
+
+.pdff-witfour{
+    height: 40px;
+    margin-left: -90px;
+}
+ .namecms{
+     font-weight: bold;
+     margin-left: -100px;
+     font-size:18px
+ }
+.partycms{
+    font-weight: bold;
+     margin-left: -120px;
+     font-size:18px
+}
+
+.afficms{
+    font-weight: bold;
+    margin-left: 170px;
+    font-size:18px
+}
+
+.vaqalat-caserecordscms{
+    font-weight: bold;
+    font-size:18px
+}
+.witness-caserecordscms{
+    font-weight: bold;
+    font-size:18px;
+
+
+}
+.oneeee{
+    margin-left: 50%;
+}
+textarea[type="textnameCaserecord"]{
+    width:130px;
+    margin-left:-210px;
+}
+
+textarea[type="textpartynamecaserecord"]{
+  
+    margin-left:-295px;
+    
+}
+.partyname-caserecordscms{
+    font-weight: bold;
+    font-size:30;
+    margin-left: -80px;
+}
+.affidavit-caserecordscms{
+    margin-left: 120px;
+}
+
+.vaqalat-caserecordscms{
+    margin-left: 130px;
+    margin-left: 180px;
+}
+
+.witness-caserecordscms{
+    margin-left: 50px;
+    margin-left: 200px;
+}
+.pdf-affiafiidavit{
+    margin-right:-50px;
+    margin-left: 34px;
+    height:40px;
+}
+
+.pdf-affiwitness{
+    height:40px;
+    /* margin-left:-20px; */
+    margin-right:-51px;
+    margin-left: -20px;
+    /* margin-left:-190px; */
+}
+.pdf-affivaqalat{
+    height:40px;
+    /* margin-left: -1px; */
+    margin-right: -51px;
+    margin-left: -8px;
+}
+.pdf-affihhh{
+    margin-left: 90%;
+}
+.filllll{
+    margin-top:60px
+}
+.btn-update-cmsss{
+    margin-left:600px;
+    background-color:rgb(197, 13, 13);
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    margin-top:-30px;
+    width:90px;
+    height:30px;
+
+
+}
+.cmsupdatedfileupload{
+    margin-left: 600px;
+    margin-top: 60px;
+    background-color:rgb(197, 13, 13);
+    border:none;
+    color:white;
+    font-weight: bold;
+    height:30px;
+}
+
+@media (max-width: 600px) {
+    .afftwo{
+        margin-left: 380px;
+        margin-top:-10px
+    }
+    .pdf-afftwo{
+        margin-left: 75px;
+        margin-top:-20px
+
+    }
+    .affidavita{
+        margin-left: 425px;
+    }
+    .affthree{
+        margin-left: 360px;
+        margin-top:-10px
+    }
+.pdf-affthree{
+    margin-left: 85px;
+    margin-top:37px
+}
+.affidavitf{
+    margin-left: 45px;
+    margin-top:-5px
+}
+.afffour{
+    margin-left: 360px;
+    margin-top:-25px
+}
+.pdf-afffour{
+    margin-left: 85px;
+    margin-top:37px
+}
+.affidavitd{
+    margin-left: 45px;
+    margin-top:-5px
+}
+.aff{
+    margin-left: 360px;
+    margin-top:25px
+}
+.pdf-afffive{
+    margin-left: 100px;
+    margin-top:-10px
+}
+.affidavitmn{
+    margin-left: 385px;
+    margin-top:-5px 
+}
+
+
+    .vaqalone{
+        margin-left:680px;
+    }
+    .pdf-vq{
+        height:40px;
+ margin-left: 70px;    
+    }
+    .vakalatkundi{
+        margin-left: 10px;    
+ 
+    }
+    .vaqaltwo{
+        margin-left:680px;
+    }
+    .pdf-vqtwo{
+        height:40px;
+ margin-left: 70px; 
+    }
+    .vatwo{
+        margin-left: 10px;   
+    }
+.vaqalthree{
+    margin-left:680px;
+}
+.pdf-vaqaltthree{
+    height:40px;
+    margin-left: 70px; 
+}
+.vathree{
+    margin-left: 10px; 
+}
+.vaqalfour{
+    margin-left:680px;
+}
+.pdf-vaqalfour{
+    height:40px;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.vafour{
+    margin-left: 10px; 
+}
+
+.vaqalfive{
+    margin-left:680px;
+
+}
+.pdf-vfive{
+    height:40px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.vafive{
+    margin-left: 10px; 
+}
+
+    .witnessone{
+        margin-left: 90px;
+        margin-top: -10px;
+    }
+    .wone{
+        margin-top: -100px;
+    }
+    .pdf-witness-one{
+        margin-top: -150px;
+        margin-left: 40px;
+    }
+
+
+    .wittwo{
+        margin-left: 90px;
+        margin-top: -10px;
+    }
+    .wtwo{
+        margin-top: -90px;
+    }
+    .pdf-witnesstwo{
+        margin-top: -110px;
+        margin-left: 43px;
+    }
+    .witthre{
+        margin-left: 90px;
+        margin-top: -10px;
+    }
+    .wtthree{
+        margin-top: -100px;
+    }
+    .pdf-witthree{
+        margin-top: -130px;
+        margin-left: 43px;
+    }
+
+
+    .witnfour{
+        margin-left: 90px;
+        margin-top: -10px;
+    }
+    .wfour{
+        margin-top: -150px;
+    }
+    .pdff-witfour{
+        margin-top: -120px;
+        margin-left: 43px;
+    }
+
+
+    .witnfive{
+        margin-left: 90px;
+        margin-top: -10px;
+    }
+    .wfive{
+        margin-top: -120px;
+    }
+    .pdff-wfive{
+        margin-top: -110px;
+        margin-left: 45px;
+    }
+
+
+
+    .btn-update-cmsss{
+        margin-left:1120px;
+        background-color:rgb(197, 13, 13);
+        color:white;
+        font-weight: bold;
+        text-align: center;
+        margin-top:-30px;
+        width:90px;
+        height:30px;
+    
+    
+    }
+
+
+    .affone{
+        margin-top:-470px;
+        margin-left:380px;
+    
+    }
+    .pdfone-aff{
+        margin-left: 70px;
+        margin-top:30px
+    }
+    input[type="file"]{
+        margin-left: -40px;
+    }
+   
+    /* .pdf-affthree{
+        margin-left: -135px;
+        margin-top:40px
+
+    }
+    .pdf-afffour{
+        margin-left: -130px;
+        margin-top:30px    }
+    .pdf-afffive{
+        margin-left: -130px;
+        margin-top:-30px    } */
+    /* .pdf-vq{
+        margin-left: 240px;
+    } */
+    .namecms{
+        font-weight: bold;
+        margin-left: 10px;
+        font-size:18px
+    }
+   .partycms{
+       font-weight: bold;
+        margin-left: 20px;
+        font-size:18px
+   }
+   
+   .afficms{
+       font-weight: bold;
+       margin-left: 25px;
+       font-size:18px
+   }
+   
+   .vaqalat-caserecordscms{
+       font-weight: bold;
+       font-size:18px;
+       margin-left: 35px;
+
+   }
+   .witness-caserecordscms{
+       font-weight: bold;
+       font-size:18px;
+       margin-left: 55px;
+   }
+   textarea[ type="textpartynamecaserecord"]{
+    margin-left: -905px;
+    width:95px
+
+
+
+   }
+   textarea[type="textnameCaserecord"]{
+    margin-left: -95px;
+    width:100px
+   }
+   .vaqalat-caserecordscms{
+    font-size: 15px;
+    margin-left: 260px;
+   }
+   .witness-caserecordscms{
+    font-size: 15px;
+    margin-left: 120px;
+   }
+   .afficms{
+    font-size: 15px;
+    margin-left: 280px;
+   }
+.partycms{
+    font-size: 15px;
+    margin-left: -215px;
+}
+   .namecms{
+       margin-left: 190px;
+       font-size: 15px;
+   }
+   
+   .cmsupdatedfileupload{
+    margin-left: 220px;
+    margin-top: 60px;
+    background-color:rgb(197, 13, 13);
+    border:none;
+    color:white;
+    font-weight: bold;
+    height:30px;
+}
+   
+}

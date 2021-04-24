@@ -1,0 +1,30 @@
+/* .A{
+    display: flex;
+    justify-content: center;
+}
+.chart{
+    width:720px;
+    
+} */
+
+.forward-one-button{
+    margin: -80px;
+    margin-left: 970px;
+    background-color: rgb(228, 228, 166);
+    border: none;
+}
+      
+@media screen and (max-width: 300px) {
+    .A{
+        width: 45px;
+    }
+    .chart{
+        width: 45px;
+    }
+    .forward-one-button{
+        margin: -40px;
+    margin-left: 20px;
+    background-color: rgb(228, 228, 166);
+    border: none;
+    }
+}

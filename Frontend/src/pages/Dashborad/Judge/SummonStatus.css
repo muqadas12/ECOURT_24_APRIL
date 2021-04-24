@@ -1,0 +1,56 @@
+.arrestwarr-image{
+    position: relative;
+    max-width: 100%;
+    margin-left: 25%;
+  }
+  .arrestwarr-image__image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .heading-one-issue-warrant{
+      margin-left: 30px;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+  }
+  .icon-arrest{
+      margin-top: 0px;
+      margin-left: 40px;
+  }
+  .click-arrest{
+    margin-top: 40px;
+  }
+  .case-no-summonserve{
+    margin-left: -75%;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .summonservedstatus{
+    margin-top:-50px;
+    margin-left: 30px;
+    color:rgb(50, 50, 218);
+    font-weight: bold;
+  }
+
+  @media (max-width: 600px) {
+    .arrestwarr-image{
+        position: relative;
+        max-width: 60%;
+        margin-top: -80px;
+        margin-left: 15%;
+    }
+    .heading-one-issue-warrant{
+      margin-left: 30px;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      font-size:20px
+  }
+  .case-no-summonserve{
+    margin-left: -40%;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  }

@@ -1,0 +1,23 @@
+.card{
+    width:18rem;
+    height:100%
+}
+.card-title-one{
+    margin-top: 10px;
+}
+
+.card-title-contact{
+    margin-top: -20px;
+}
+.btn{
+    margin-left: 30px;
+}
+
+.card-title-list{
+    margin-top: 35px;
+}
+@media (max-width: 600px) {
+    .card-title-one{
+        margin-top: -10px;
+    }
+}

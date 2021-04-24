@@ -1,0 +1,228 @@
+
+.case-name-status-one{
+    
+    margin-left: 30px;
+    font-weight: bold;
+}
+.case-number-status{
+    margin-left: 45px;
+    font-weight: bold;
+}
+.case-number-status-div{
+    margin-left: -10%;
+}
+
+.case-year-status{
+    margin-left: 40px;
+    font-weight: bold;
+}
+.case-title-status{
+    margin-left: 30px;
+    font-weight: bold;
+}
+.case-titles-status{
+    margin-left: -190px;
+    
+}
+.s-j-n{
+    width:20px
+}
+.l-h-s{
+    margin-left: 280px;
+    font-weight: bold;
+}
+.option-judge{
+    width: 20%;
+    height: 40px;
+    margin-left: -74%;
+}
+/* .judge-name{
+    margin-left: -80%;
+} */
+/* .party-name{
+    margin-top: -70px;
+}
+.option-party{
+    width: 20%;
+    height: 40px;
+} */
+.status-search-btn{
+   
+    margin-top: 70px;
+    margin-left: 25%;
+    width:10%;
+    height: 40px;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    border:none
+}
+
+.judge-name-case-no{
+    margin-left: -80%;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.option-judge-case-no{
+    width: 20%;
+    height: 40px;
+    margin-left: -74%;
+
+}
+.party-name-case-year{
+    margin-top: -70px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.option-party-c-year{
+    width: 20%;
+    height: 40px;
+}
+.status-search-btn-case-status{
+    margin-top: 70px;
+    margin-left: 25%;
+    width:10%;
+    height: 40px;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    border:none
+}
+.n-d-s{
+    margin-left: 80px;
+    font-weight: bold;
+}
+.n-cs{
+    margin-left: 90px;
+    font-weight: bold;
+}
+.n-law{
+    margin-left: 60px;
+    font-weight: bold;
+}
+.coll{
+    margin-left: 40px;
+}
+.co-case-year{
+    margin-left: 90px;
+    font-weight: bold;
+
+}
+.bench{
+    margin-left: 90px;
+    font-weight: bold;
+}
+.col-code{
+    margin-left: 89px;
+    font-weight: bold;
+
+}
+.col-title{
+    margin-left: 10%;
+    font-weight: bold;
+
+}
+
+.l-h{
+    margin-left: 13%;
+    font-weight: bold;
+}
+.n-d{
+    margin-left: 40px;
+    font-weight: bold;
+}
+@media (max-width: 600px) {
+    .party-name-case-year{
+        margin-top: -80px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        margin-top:-70px;
+    
+    }
+    .judge-name-case-no{
+        margin-left: -80%;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+    }
+    .option-judge-case-no{
+        width: 20%;
+        height: 40px;
+        margin-left: -74%;
+    
+    }
+    .status-search-btn-case-status{
+        margin-top: 70px;
+        margin-left: 25%;
+        width:15%;
+        height: 40px;
+        background-color: black;
+        color:white;
+        font-weight: bold;
+        border:none
+    }
+.j-search{
+    font-size: 20px;
+}
+.case-number-status-div{
+    margin-right: 75%;
+}
+.lawyerofcasestatus{
+    margin-left: -35px;
+}
+.case-year-status{
+    margin-left: 70px
+}
+.l-h-s{
+    margin-left: 70px;
+    font-weight: bold;
+}
+}
+@media (max-width: 750px) {
+    .party-name-case-year{
+        margin-top: -80px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        margin-top:-70px;
+    
+    }
+    .judge-name-case-no{
+        margin-left: -80%;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+    }
+    .option-judge-case-no{
+        width: 20%;
+        height: 40px;
+        margin-left: -74%;
+    
+    }
+    .status-search-btn-case-status{
+        margin-top: 70px;
+        margin-left: 25%;
+        width:15%;
+        height: 40px;
+        background-color: black;
+        color:white;
+        font-weight: bold;
+        border:none
+    }
+.j-search{
+    font-size: 20px;
+}
+.case-number-status-div{
+    margin-right: 75%;
+}
+.lawyerofcasestatus{
+    margin-left: -35px;
+}
+.case-year-status{
+    margin-left: 70px
+}
+}

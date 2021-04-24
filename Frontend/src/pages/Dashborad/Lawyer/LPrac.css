@@ -1,0 +1,112 @@
+.summondropdown{
+    margin-top: -30px;
+    margin-left: -50%;
+}
+.case-no-summon{
+    margin-top:-160px;
+    margin-left: -80%;
+
+}
+.headingone{
+font-family:'Times New Roman', Times, serif;
+font-weight: bold;
+font-size: 30px;
+text-align:center;
+}
+.fromsummon{
+font-weight: bold;
+font-family:'Times New Roman', Times, serif;
+margin-top:100px;
+font-size: 20px;
+}
+.districsummon{
+    /* margin-top:-41px;
+    margin-left: 100px; */
+    margin-top: -45px;
+    margin-left: 200px;
+
+
+}
+.toofsummon{
+    font-weight: bold;
+font-family:'Times New Roman', Times, serif;
+font-size: 18px;
+margin-top: 30px;
+
+}
+.pnsummon{
+margin-top: -45px;
+margin-left: 200px;
+}
+.datesummon{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 30px;
+
+}
+.datedisplaysummon{
+    margin-top: -45px;
+    margin-left: 200px;
+}
+.casetypeofsummon{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.casetypesummondoc{
+    margin-top: -45px;
+    margin-left: 200px;
+}
+.tehsilofsummon{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.tehsilsummon{
+    margin-top: -45px;
+    margin-left: 200px;
+}
+.addsummon{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.addofsummon{
+    margin-top: -45px;
+    margin-left: 200px;
+}
+.msgsummon{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.msgofsummon{
+    margin-left: 250px;
+}
+.selectingcasenumberofjudge{
+    width:100px;
+    margin-top: -60px;
+    margin-left: 130px;
+}
+.dateofhearingselectsummon{
+    margin-left: 750px;
+    margin-top: -70px;
+}
+.anddate{
+    margin-left: 780px;
+    margin-top: -40px;
+}
+.lastline{
+    margin-top:-30px
+}
+.thanku{
+    margin-top:30px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}

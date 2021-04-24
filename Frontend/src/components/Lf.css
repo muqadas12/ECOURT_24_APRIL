@@ -1,0 +1,41 @@
+.lawyer-login-form-onerrrr-jugedashboard{
+    font-size:25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.lawyer-login-form-onerrrradmin{
+  font-size:25px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+    @media (max-width: 600px) {
+        input[type="passworddjuge"]{
+          width:180px
+      
+        }
+        input[type="emailjudge"]{
+          width:180px
+      
+        }
+        .lawyer-login-form-onerrrr-jugedashboard{
+          font-size:20px;
+          font-weight: bold;
+          font-family: 'Times New Roman', Times, serif;
+          text-align: center;
+          margin-left:-280px
+      }
+      .lawyer-login-form-onerrrradmin{
+        font-size:20px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+        margin-left:-198px
+      }
+      
+        
+      }
+    
+  

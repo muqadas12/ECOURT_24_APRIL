@@ -1,0 +1,107 @@
+.form-control{
+    width: 70px;
+}
+.res-image{
+    width: 100%;
+    height: 40%;
+    margin-top: -20px;
+}
+i {
+  position: absolute;
+ 
+}
+i:hover {
+  color: #00fcb6;
+  cursor: pointer;
+}
+
+
+.authentication__header {
+    color: white;
+    text-align: center;
+  }
+  
+  .authentication {
+    width: 90%;
+    
+    max-width: 25rem;
+    margin: 7rem auto;
+    text-align: center;
+  }
+  
+  .authentication form {
+    margin-bottom: 1rem;
+  }
+  
+
+
+
+  .admin-login-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: -7px;
+
+  }
+.mail-icon{
+  background: dodgerblue;
+  color: white;
+  text-align: center;
+  width:40px;
+  height:30px;
+  margin-left: 20px;
+  margin-top: 30px;
+  
+}
+input[type="passworrdddd"]{
+  width:80%;
+  margin-left:70px;
+  margin-top: 20px;
+
+}
+
+input[type="emailll"]{
+  width:80%;
+  margin-left:70px;
+  margin-top: -10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.split {
+  height: 70%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+margin-top: 210px;
+}
+
+.leftt {
+  left: 0;
+  margin-top: 16%;
+  margin-left:120px;
+  background-image: url("../../assets/Images/fi.jpg");
+  background-repeat: no-repeat;
+}
+
+.rightt {
+  right: 0;
+  /* background-image: url("../../../assets/Images/uci.jpg"); */
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

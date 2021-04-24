@@ -1,0 +1,98 @@
+.heading-table-one{
+    font-weight: bold;
+    font-size: 15px;
+}
+.pdf-affi{
+    height:40px
+}
+.rec-img{
+   margin-top: -70px;
+    margin-left: 350px;
+}
+.c-r-j{
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cause-list-cnocaserecords{
+    font-weight: bold;
+    margin-left: 270px;
+}
+.partynamecaserecord{
+    margin-left: -340%;
+}
+.lawyernamecaserecord{
+    margin-left: -250px;
+
+}
+.pnr{
+    font-weight: bold;
+    margin-left: 100px;
+
+
+}
+.affre{
+    margin-left: 250px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.vql{
+    margin-left: 230px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.wit{
+    margin-left: 170px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.affrecordcase{
+    font-weight: bold;
+    margin-left: 280px;
+}
+.vaqalatcaserecord{
+    font-weight: bold;
+    margin-left: -20px;
+}
+/* .pnr{
+    font-weight: bold;
+
+} */
+.witnesscaserecord{
+    font-weight: bold;
+    margin-left: 160px;
+}
+@media (max-width: 600px) {
+    .rec-img {
+        position: relative;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: -5%;
+    }
+    .lawyernamecaserecord{
+margin-left: -30px;
+    }
+    .partynamecaserecord{
+        margin-left: 200px;
+        margin-top: -20px;
+
+    }
+    .affre{
+        margin-left: 230px;
+    font-weight: bold;
+    }
+    .vql{
+        margin-left: 230px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    .wit{
+        margin-left: 230;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    /* .affre{
+    margin-left: 90px;
+    font-weight: bold;
+    margin-top: 10px;
+} */
+  }

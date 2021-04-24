@@ -1,0 +1,387 @@
+.capa{
+    margin-left: -660px;
+    margin-top: -40px;
+
+}
+.captiionbb{
+    margin-left: -860px;
+    margin-top: -35px;
+    /* margin-top: -120px; */
+
+}
+.pathwitthree{
+     margin-left: -2850px; 
+     margin-top: 130px;
+}
+.capg{
+    margin-left: -1540px; 
+    margin-top:-35px;
+
+
+}
+
+.a{
+    margin-right: 20%;
+     margin-bottom: -470px;
+ height:40px;
+ }
+ .atwo{
+     height:40px;
+     margin-top:210px; 
+     margin-left:-740px;
+ }
+ 
+ .b{
+     height:40px;
+     margin-left:-760px;
+     margin-bottom: -530px;
+ 
+ 
+ }
+ .pathcfarhanislam{
+    margin-left:-870px;
+    margin-top:250px
+ }
+ .c{
+     height:40px;
+     margin-left:-970px;
+     margin-bottom: -650px;
+ 
+ 
+ }
+ .pacaptd{
+    margin-left:-1090px;
+    margin-top: 300px;
+ }
+ .affidoc{
+     font-weight:bold;
+     margin-left: 650px;
+ }
+ .vaqalllat{
+     font-weight:bold;
+ }
+ .wit{
+     font-weight:bold;
+ }
+ 
+ .d{
+     height:40px;
+     margin-top: 320px;
+     margin-left: -620px;
+ 
+ 
+ 
+ }
+ .mm{
+     height:40px;
+ }
+ .e{
+     height:40px;
+     margin-top: 320px;
+     margin-left: -980px;
+ 
+ }
+ .capf{
+    margin-left: -1130px;
+    margin-top: -30px;
+
+ }
+ .f{
+     height:40px;
+     margin-top: 150px;
+     margin-left: -1412px;
+ 
+ }
+ .capg{
+    margin-left: -1550px;
+ }
+ .gg{
+     height:40px;
+     margin-top: 470px;
+     margin-left: -1260px;
+ 
+ 
+ }
+ .aaaone{
+     height:40px;
+     margin-top: 150px;
+     margin-left: -540px;
+ }
+ .aaatwo{
+     height:40px;
+ }
+ .h{
+     height:40px;
+     margin-top: 210px;
+     margin-left: -1625px;
+ 
+ 
+ }
+ .cappph{
+    margin-left: -1760px;
+    margin-top: -40px;
+ }
+ .i{
+ 
+     height:40px;
+     margin-top: 265px;
+     margin-left: -1838px;
+ 
+ 
+ 
+ }
+ .capi{
+    margin-left: -1975px;
+    margin-top: -35px;
+
+ }
+ .j{
+     height:40px;
+     margin-top: 320px;
+     margin-left: -2050px;
+ 
+ }
+ .capj{
+    margin-left: -2180px;
+    margin-top: -27px;
+
+ }
+ .aaa{
+     height:40px;
+     margin-top: 370px;
+     margin-left: -1180px;
+ 
+ }
+ .afd{
+    margin-left: -1295px;
+    margin-top: -27px;
+
+ }
+ .k{
+     height:40px;
+     margin-top: 650px;
+     margin-left: -1890px;
+ 
+ }
+ .l{
+     height:40px;
+     margin-top: 379px;
+     margin-left: -2260px;
+ 
+ }
+ .pathkcap{
+    margin-left: -2390px; 
+    margin-top: -35px;
+
+ }
+ .pathlca{
+    margin-left: -2437px;
+    margin-top:-35px;
+
+ }
+ .m{
+     height:40px;
+     margin-top: 210px;
+     margin-left: -2280px;
+ }
+ .n{
+     height:40px;
+     margin-top: 265px;
+     margin-left: -2490px;
+ }
+ .capn{
+    margin-left: -2640px;
+    margin-top: -40px;
+
+ }
+ .o{
+     height:40px;
+     margin-top: 750px;
+     margin-left: -2540px;
+ }
+ .op{
+     height:40px;
+ 
+ }
+ .nn{
+     margin-left: -2720px;
+     height:40px;
+     margin-bottom:-300px
+ }
+ .pathg{
+      height:40px;
+      margin-left: -20px;
+ }
+ .last{
+     margin-left: -2910px;
+     height:40px;
+     margin-bottom:-770px
+ }
+ .lastpath{
+    margin-left: -3070px;
+    margin-top: 360px;
+ }
+ /* .p{
+     height:40px;
+     margin-top: 750px;
+     margin-left: -2540px;
+ } */
+
+ @media (max-width: 600px) {
+    .rec-img {
+        position: relative;
+        max-width: 70%;
+        margin-top: -80px;
+        margin-left: 9%;
+    }
+    .capa{
+        margin-left: -830px;
+        margin-top: -30px;
+    
+    }
+    .aaaone{
+        height:40px;
+        margin-top: 150px;
+        margin-left: -720px;
+    }
+    .aaatwo{
+        height:40px;
+    }
+    .aaa{
+        height:40px;
+        margin-top: 390px;
+        margin-left: -805px;
+    
+    }
+    /* .b{
+        margin-left: -5px;
+    } */
+    .afd{
+       margin-left: -915px;
+       margin-top: -27px;
+   
+    }
+    .c{
+        height:40px;
+        margin-left:-780px;
+
+        /* margin-left:-390px;
+        margin-bottom: -650px;
+     */
+    
+    }
+    .pacaptd{
+        margin-left:-890px;
+       margin-top: 310px;
+
+    }
+    .capg{
+        margin-left: -780px; 
+        margin-top:-35px;
+    
+    
+    }
+    .f{
+        height:40px;
+        margin-top: 150px;
+        margin-left: -650px;
+    
+    }
+    .h{
+        height:40px;
+        margin-top: 210px;
+        margin-left: -675px;
+    
+    
+    }
+    .cappph{
+        margin-left: -810px;       
+         margin-top: -40px;
+    }
+    .i{
+ 
+        height:40px;
+        margin-top: 265px;
+        margin-left: -700px;    
+    
+    
+    }
+    .capi{
+        margin-left: -840px;       
+
+       margin-top: -35px;
+   
+    }
+    .j{
+        height:40px;
+        margin-top: 330px;
+        margin-left: -730px;  
+    
+    }
+    .capj{
+        margin-left: -860px;       
+
+       margin-top: -27px;
+   
+    }
+    .l{
+        height:40px;
+        margin-top: 389px;
+        margin-left: -750px;  
+    
+    }
+    .pathkcap{
+        margin-left: -880px; 
+       margin-top: -35px;
+   
+    }
+    .nn{
+        margin-left: -640px;          height:40px;
+        margin-bottom:-300px
+    }
+    .pathwitthree{
+        margin-left: -800px; 
+        margin-top: 130px;
+   }
+   .m{
+    height:40px;
+    margin-top: 210px;
+    margin-left: -580px;  
+}
+.pathlca{
+    margin-left: -740px; 
+    margin-top:-35px;
+
+ }
+ .n{
+    height:40px;
+    margin-top: 275px;
+    margin-left: -600px;  
+
+}
+.capn{
+    margin-left: -740px; 
+   margin-top: -40px;
+
+}
+.e{
+    height:40px;
+    margin-top: 330px;
+    margin-left: -380px;  
+
+}
+.capf{
+    margin-left: -520px; 
+   margin-top: -30px;
+
+}
+.last{
+    margin-left: -650px;
+    height:40px;
+    margin-bottom:-790px
+}
+.lastpath{
+    margin-left: -790px; 
+       margin-top: 370px;
+}
+ }

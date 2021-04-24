@@ -1,0 +1,141 @@
+input[type="textss"]{
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+/* .responsive-image{
+    zoom:120%
+} */
+input[type="textsssad"]{
+    margin-top: 30px;
+    margin-left: 74px;
+    
+}
+select[type="textssscasetype"]{
+    margin-top: 30px;
+    margin-left: 60px;
+    width:180px;
+    height:30px
+    
+}
+select[type="textssstehsil"]{
+    margin-top: 30px;
+    margin-left: 90px;
+    width:180px;
+    height:30px
+    
+}
+input[type="textsss"]{
+    margin-top: 30px;
+    margin-left: 60px;
+    
+}
+input[type="file"]{
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+input[type="texts"]{
+    margin-top: 30px;
+    margin-left: 40px;
+    
+}
+.l-n{
+    margin-left:35%;
+}
+.p-n{
+    margin-left: 35%;
+}
+.u-c{
+    margin-left: 35%;
+}
+.paafile{
+    height: 100px;
+  width: 150px;
+  background-color: rgb(190, 206, 48);
+}
+.submiitt-button{
+    margin-left: 45%;
+ background-color: rgb(202, 34, 34); 
+ color:white;
+ border:none;
+ width:10%;
+ height:30px;
+ margin-top: 40px;
+}
+.top-lawyer{
+    margin-left: 34%;
+
+}
+hr.new{
+   
+    width:30%;
+}
+.rectangle {
+    height: 280px;
+    width: 90px;
+    background-color: #555;
+  }
+  
+  @media (max-width: 600px) {
+    .top-lawyer{
+        margin-left:13%;
+        font-size: 16px;
+    
+    }
+    input[type="file"]{
+        margin-top: -75px;
+        margin-left: 290px;
+        
+    }
+    input[type="texts"]{
+        margin-top: -10px;
+        margin-left: 20px;
+        width:150px;
+    }
+    input[type="textss"]{
+        margin-top: 10px;
+        margin-left: 35px;
+        width:150px;
+        
+    }
+    select[type="textssscasetype"]{
+        margin-top: 24px;
+        margin-left: 44px;
+        width:147px;
+        height:30px
+        
+    }
+    select[type="textssstehsil"]{
+        margin-top: 20px;
+        margin-left: 76px;
+        width:147px;
+        height:30px
+        
+    }
+    input[type="textsssad"]{
+        margin-top: 30px;
+        margin-left: 60px;
+        width:150px;
+        
+    }
+    .l-n{
+        margin-left:15%;
+    }
+    .p-n{
+        margin-left: 15%;
+    }
+    .u-c{
+        margin-top:20px;
+        margin-left: 15%;
+    }
+    .submiitt-button{
+        margin-left: 45%;
+     background-color: rgb(202, 34, 34); 
+     color:white;
+     border:none;
+     width:15%;
+     height:30px;
+     margin-top: 40px;
+    }
+}

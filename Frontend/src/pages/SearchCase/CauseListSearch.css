@@ -1,0 +1,83 @@
+.case-no-h{
+    margin-left: -60px;
+}
+.party-name-h1{
+    word-break: keep-all;
+}
+.sr-no{
+    margin-top: -40px;
+}
+.time-fix{
+    margin-left: 200%;
+}
+.search-b-1{
+    margin-top: -40px;
+    margin-left: 60%;
+    font-weight: bold;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.search-box-case{
+    margin-left: 20px;
+    border: 1px solid;
+    width:20%;   height:40px;
+}
+
+.cause-list-search{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.cos{
+    margin-left: -100px;
+}
+.law{
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+}
+.fix{
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+
+
+
+.cause-list-caseNo{
+    margin-left: 10px;
+    font-weight: bold;
+    
+    font-family: 'Times New Roman', Times, serif;
+    /* margin-top: 90px; */
+}
+
+.cause-list-srno{
+    margin-left: -20px;
+    font-weight: bold;
+}
+
+.cause-list-cno{
+    margin-left: -40px;
+    font-weight: bold;
+
+}
+.cause-list-pno{
+    margin-left: 200px;
+    font-weight: bold;
+
+}
+.cause-list-lawyer{
+    margin-left: 600px;
+    font-weight: bold;
+}

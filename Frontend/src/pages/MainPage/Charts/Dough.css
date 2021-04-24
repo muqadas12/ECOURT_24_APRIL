@@ -1,0 +1,20 @@
+.A{
+    display: flex;
+    justify-content: center;
+}
+.chart{
+    width:720px;
+    
+}
+.court-heading-1{
+    text-align: center;
+}
+
+@media screen and (max-width: 300px) {
+    .A{
+        width: 45px;
+    }
+    .chart{
+        width: 45px;
+    }
+}

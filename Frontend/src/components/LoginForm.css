@@ -1,0 +1,81 @@
+
+  input[type="password"]{
+    display: block;
+    width: 300px;
+    padding: 8px 15px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+    background-color: cornsilk;
+    border:1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 7%;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+
+input[type="text"]{
+  display: block;
+  width: 300px;
+  padding: 8px 15px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: black;
+  background-color: cornsilk;
+  border:1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 7%;
+font-family: "Times New Roman", Times, serif;
+}
+
+
+.Email{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+ font-weight: bold;
+ margin-top: 20px ;
+}
+.password{
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 20px ;
+    font-size: 17px;
+   font-weight: bold;
+
+}
+
+.login{
+  width:10px;
+  margin-top: -20%;
+}
+.error{
+  color: red;
+}
+ .authentication__header {
+    color: white;
+    text-align: center;
+  }
+  
+  .authentication {
+    width: 90%;
+    max-width: 25rem;
+    margin: 7rem auto;
+    text-align: center;
+  }
+  .authentication form {
+    margin-bottom: 3 rem;
+  } 
+ 
+ 
+ .login{
+  margin-top: -80px;
+  width: 100%;
+  object-fit: cover;
+  height: auto;
+  background-repeat: no-repeat;
+  position: relative;
+  }  

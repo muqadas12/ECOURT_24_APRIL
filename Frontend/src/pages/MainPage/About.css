@@ -1,0 +1,40 @@
+.About{
+margin-top: -80px;
+width: 100%;
+object-fit: cover;
+height: auto;
+  
+  
+   background-repeat: no-repeat;
+   position: relative;
+}
+.responsive-image {
+   position: relative;
+   max-width: 100%;
+ }
+ .responsive-image__image {
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+ }
+ .ecourt-heaig{
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+   font-size: 25px;
+ }
+
+ hr.newww{
+  border: 1px solid rgb(5, 5, 5);
+  width:60px;
+  border-radius: 5px;
+
+ 
+ }
+ .paraEcourt{
+   text-align: center;
+ }
+ 

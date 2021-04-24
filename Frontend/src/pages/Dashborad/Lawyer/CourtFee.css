@@ -1,0 +1,157 @@
+.resss-image{
+   margin-left: 360px;
+   margin-top: -80px;
+  
+}
+.responsssssssive-image{
+    margin-left: 290px;
+}
+.ressiis-image{
+    margin-left: 360px;
+    margin-top: -80px;
+}
+.c-f{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+.cf-cn{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+   
+    
+   
+}
+.bg-fee{
+    background-color: blue;
+}
+
+.court-fee{
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color:black;
+    color:white; */
+    font-weight: bold;
+    font-size: 20px;
+    /* width:90%;
+    height:70%; */
+}
+.fee-case-no{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    margin-right: 90%;
+    font-size: 20px;
+
+}
+.option-fee-case-no{
+    width: 20%;
+    height: 40px;
+    margin-left: -60%;
+    margin-top: -40px;
+}
+.fee-case-year{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 90%;
+    margin-top: 50px;
+}
+.fee-option-year{
+    width: 20%;
+    height: 40px;
+    margin-left: -60%;
+    margin-top: -40px;
+
+}
+.check-fee-status{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 90%;
+    margin-top: 50px;
+}
+.fee-search-btn{
+   border:none;
+   background-color: rgb(51, 159, 196); 
+   font-family: 'Times New Roman', Times, serif; 
+  font-weight: bold;
+    font-size: 20px;
+    width:90px;
+    height:40px;
+    border-color:rgb(51, 159, 196); 
+    margin-left: 20px;
+    color:white
+    
+}
+
+.sub{
+    margin-left: -75%;
+    margin-top: -35px;
+}
+
+.subcheck{
+    margin-left: -65%;
+    margin-top: -25px;
+
+}
+@media (max-width: 600px) {
+    .responsssssssive-image {
+        position: relative;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: -5%;
+    }
+    .sub{
+        margin-left: 10px;
+        margin-top: -35px;
+    }
+    
+    .subcheck{
+        margin-left: 10px;
+        margin-top: -45px;
+    
+    }
+    .fee-case-no{
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        margin-right: 70%;
+        font-size: 20px;
+    
+    }
+    .option-fee-case-no{
+        width: 20%;
+        height: 40px;
+        margin-left: 10px;
+        margin-top: -40px;
+    }
+    .fee-case-year{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 70%;
+    margin-top: 50px;
+}
+.fee-option-year{
+    width: 20%;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: -40px;
+
+}
+.check-fee-status{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 70%;
+    margin-top: 50px;
+}
+
+    .ressiis-image{
+        position: relative;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: -5%;
+    }
+  
+  }

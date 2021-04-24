@@ -1,0 +1,43 @@
+.contact-us{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+}
+p{
+    margin-left: 40px;
+}
+@media (max-width: 600px) {
+    Map{
+        width:20px
+    }
+    .district{
+        margin-left: 10px;
+        font-size: 15px;
+
+    }
+    .sessionjudge{
+        margin-left: 10px;
+        font-size: 13px;
+
+    }
+    .addresscontact{
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .phno{
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .fax{
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .emailcontactus{
+        margin-left: 10px;
+        font-size: 13px;
+
+    }
+    .mapstyle{
+        margin-left: 40px; 
+        margin-top:120px
+    }
+}

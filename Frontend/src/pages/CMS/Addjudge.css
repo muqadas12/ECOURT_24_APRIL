@@ -1,0 +1,115 @@
+.searchbtn{
+    float: right;
+    margin-top: 10%; 
+    padding-right: 5%;
+ }
+ .courtlogo{
+     padding-left: 5%;
+ }
+ 
+ .navbar{
+     display: flex;
+     justify-content: center;
+     background-color: black;
+     border-bottom: 5px solid #D9BE65;
+     border-top: 5px solid #D9BE65;
+     font-size:18px;
+ 
+ }
+
+ .ant-input-search-button{
+     background-color: black!important;
+ }
+ .nav-link{
+     color: white !important;
+     list-style: none;
+ }
+ 
+ .nav-item:hover{
+     border-bottom: 2px solid #D9BE65;
+ }
+ 
+ .dropdown-menu{
+    
+    
+     background-color: #2C2C2C;
+ }
+ .dropdown-item{
+     color: white;
+     border-bottom: 2px solid black;
+ }
+
+.homepagebtn{
+    margin-top:3%;
+    
+    
+
+}
+.img-top{
+opacity: 0.8;
+padding-left: 30%;
+
+
+}
+
+.img-top:hover{
+     opacity: 1; 
+    }
+
+   
+
+    .pdfdocuments{
+        margin-left: 20%;
+        display: inline;
+        font-size: 20px;
+        
+    }
+    .highlights{
+        display: inline;
+        font-size: 20px;
+
+    }
+
+    .casereportimg{
+        width: 100%;
+        
+       
+        
+    }
+    .alert{
+        text-align: center;
+                margin-left:30%;right:18%;
+                  }
+.form{
+    margin-left: 20%;
+    
+}
+button.btn{
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+label{
+    font-size: 15px;}
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+    }
+    th{
+        font-size: 20px;
+    }
+
+    .form-2{
+        margin-left: 10%;  
+    }
+     
+   .form-3{
+    border:none;
+    border-bottom:2px solid black;
+    outline:none;
+    width: 20%;
+    
+   }

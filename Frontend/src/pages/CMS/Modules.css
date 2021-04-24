@@ -1,0 +1,238 @@
+.res-image {
+    position: relative;
+    max-width: 100%;
+    margin-top: -80px;
+
+  }
+  
+.res-image__image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+  .responsive-image-admin-dashboard{
+    margin-left: 30%;
+    margin-top: -70px;
+  }
+  
+.header-image{
+  margin-top:-80px;
+  margin-left: -10px;
+}
+
+.btn-1{
+  margin-left: 300px;
+  margin-top: 50px;
+  border-radius: 12px;
+  width:220px;
+  height: 50px;
+  background-color: yellow;
+  border-color: yellow;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+
+.btn-2{
+  margin-left: 180px;
+  margin-top: 50px;
+  border-radius: 12px;
+  width:220px;
+  height: 50px;
+  background-color: rgb(14, 216, 216);
+  border-color: rgb(14, 216, 216);
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.btn-3{
+  margin-left: 22%;
+  margin-top: 70px;
+  border-radius: 12px;
+  width:220px;
+  height: 50px;
+  background-color:palevioletred;
+  border-color:palevioletred;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.btn-4{
+  margin-left: 180px;
+  margin-top: 10px;
+  border-radius: 12px;
+  width:220px;
+  height: 50px;
+  background-color: greenyellow;
+  border-color: greenyellow;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+ 
+
+}
+.admindash{
+  height:300px;
+  margin-left: 170px;
+  margin-top: -70px;
+}
+.ad11{
+  margin-left: -50%;
+}
+.para-admin{
+  margin-left:35%;
+  margin-top:-140px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.admindashboard{
+  margin-left: 29%;
+ 
+  color:black;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.judgmentcaserecord{
+  margin-left: 40%;
+}
+
+.clist-records{
+  margin-left: 50%;
+  margin-top: -240px;
+}
+.latestjudgmentupdated{
+  margin-left: 40%;
+  color:black;
+  font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.upd-case-records{
+  margin-left: 31%;
+  margin-top: -10px;
+  color:black;
+  font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.summon-judgee-records{
+  margin-left:30%
+}
+
+.material-icons{
+  margin-bottom: -30px;
+}
+.case-judgeee-records{
+  margin-left: 30%;
+}
+@media screen and (max-width: 600px) {
+  .summon-judgee-records{
+    margin-left:15%
+  }
+  .ad11{
+    margin-left: -20%;
+  }
+  .admindash{
+    height:200px;
+    margin-left: 170px;
+    margin-top: -20px;
+  }
+  .upd-case-records{
+    margin-left: 15%;
+    margin-top: -10px;
+    color:black;
+    font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+  
+  }
+  
+  
+  
+
+
+
+  .case-judgeee-records{
+    margin-left: 15%;
+  }
+  .causelist-law-dashboard{
+    margin-left: 30%;
+  }
+  .causelist-law-dashboard{
+    margin-left: 30%;
+  }
+  
+  .clist-records{
+    margin-left: 60%;
+    margin-top: -240px;
+  }
+  .summon-judge-records{
+    margin-left: 80%;
+  
+  }
+  .judgmentcaserecord{
+    margin-left: 40%;
+  }
+  .admindashboard{
+    margin-left: 10%;
+   
+    color:black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .btn-1 {
+    
+    width: 45%;
+    
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top:30px;
+
+    /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .btn-2 {
+    
+    width: 45%;
+    
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top:30px;
+
+    /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .btn-3 {
+    
+    width: 45%;
+    
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top:30px;
+
+    /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .btn-4 {
+    
+    width: 45%;
+    
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top:30px;
+
+    /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .responsive-image-admin-dashboard{
+  position: relative;
+  max-width: 100%;
+  margin-top: -80px;
+  margin-left: -5%;}
+}

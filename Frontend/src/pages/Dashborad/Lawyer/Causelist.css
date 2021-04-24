@@ -1,0 +1,41 @@
+.cause-list-lawyer-name{
+    font-weight: bold;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-size: 16px;
+    margin-left: 250px;
+}
+
+.cause-list-fix-time{
+    font-weight: bold;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-size: 16px;
+    margin-left: 190px;
+
+}
+input[type=texttt] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+  input[type=texttt]:focus {
+    width: 20%;
+  }
+  
+  .columnone{
+   width:170px;
+   margin-left: -100px;
+  }
+   @media (max-width: 600px) 
+{
+  .search-box-case{
+    margin-left:250px
+  }
+  .cause-list-cno{
+    margin-left: 30px;
+  }
+  .case-no-h{
+    margin-left: 3px;
+
+  }
+ 
+}

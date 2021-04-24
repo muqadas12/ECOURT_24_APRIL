@@ -1,0 +1,59 @@
+/* .col-2-form{
+    margin-left: 60%;
+    margin-top: -90px;
+} 
+.col-one-img{
+margin-top: -200px;
+margin-left: -100px;
+} */
+
+.authentication__header {
+  color: white;
+  text-align: center;
+}
+
+.authentication {
+  width: 90%;
+  
+  max-width: 25rem;
+  margin: 7rem auto;
+  text-align: center;
+}
+
+.authentication form {
+  margin-bottom: 1rem;
+}
+.Login-cms-btn{
+  background-color: blue;
+  color: white;
+  border: none;
+  width: 90px;
+  height: 40px;
+
+}
+
+@media (max-width: 600px) {
+  .loginnotification{
+      font-family: 'Times New Roman', Times, serif;
+      font-weight:bold;
+      font-size:20px;
+      margin-left: 10px;
+      
+  }
+  input[type="passworddfile"]{
+      width:180px;
+      margin-left: 90px;
+  
+    }
+    input[type="emaillllll"]{
+      width:180px;
+      margin-left: 90px;
+  
+    }
+    .loginnot{
+      position: relative;
+      max-width: 100%;
+      margin-top: -80px;
+      margin-left: -5%;
+  }
+}

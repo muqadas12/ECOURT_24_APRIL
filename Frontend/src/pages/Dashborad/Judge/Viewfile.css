@@ -1,0 +1,292 @@
+.fileview-image{
+    position: relative;
+    max-width: 100%;
+    margin-left: 25%;
+    margin-top: -80px;
+  }
+  .typeofcase{
+    margin-left:-180px
+  }
+  .fileview__image {
+    position: absolute;
+    margin-top: -40px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 80%;
+    height: 100%;
+  }
+  .pdf-affiii{
+    height:40px;
+    margin-left: -200px;
+  }
+  .button-viewfilingacceptcase{
+    background-color: rgb(56, 56, 209);
+    color:white;
+    border-color:rgb(56, 56, 209);
+    margin-left: -260px;
+  }
+  .dismissbtn{
+    margin-left:-80px;
+    font-weight:bold;
+    
+  }
+  .accbtn{
+    margin-left:-40px;
+    font-weight:bold
+  }
+  .delbutton{
+    margin-left:-300px;
+    background-color: rgb(218, 221, 28);
+    color:white;
+    border-color:rgb(218, 221, 28)
+  }
+  .plaintshift{
+    margin-left:-50px
+  }
+  .docxshift{
+    margin-left:-50px
+  }
+  .pdf-affiiii{
+    height: 40px;
+    margin-left:-280px
+  }
+  .pdf-affiiidocx{
+    height: 40px;
+    margin-left:-280px
+
+
+  }
+  .lawyernameviewfiling{
+    font-weight: bold;
+    font-size:20px
+  }
+  .partynamefilingview{
+    font-weight: bold;
+    font-size:20px
+  }
+  .casetypefiling{
+    font-weight: bold;
+    font-size:20px
+  }
+  .lawyernameviewfile{
+    margin-left:1px
+  }
+  .partynamefiling{
+    margin-left:1px;
+  }
+  .capone{
+    margin-left:1px
+  }
+  .captwo{
+    margin-left:1px
+  }
+  .muq{
+    margin-left:1px
+  }
+  .casefff{
+    margin-left: 50px;
+  }
+  @media (max-width: 600px) {
+    .fileview-image{
+      position: relative;
+      height:200px;
+      max-width: 100%;
+      margin-top: -80px;
+      margin-left: 20%;
+    }
+    .lawyernameviewfiling{
+      font-weight: bold;
+      font-size:13px;
+      margin-left: -25px;
+    }
+    .partynamefilingview{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:-20px;
+      margin-bottom: -300px;
+    }
+    .casetypefiling{
+      font-weight: bold;
+      font-size:13px;
+      margin-left: 10px;
+      margin-top: 120px;
+    }
+    .casetypeheading{
+      margin-left: -10px;
+    }
+    .muq{
+      margin-top: 90px;
+    }
+    .plaintshift{
+      font-weight: bold;
+      font-size:13px;
+      margin-left: -10px;
+    }
+    .docxshift{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:-5px;
+      margin-top: -30%;
+
+    }
+    .accbtn{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:-30px;
+    }
+    .dismissbtn{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:10px
+    }
+    .lawyernameviewfile{
+      margin-left:-10px;
+      margin-top:-30px;
+      font-size: 12px;
+    }
+    .partynamefiling{
+      margin-left:17px;
+      margin-top:-10px;
+      font-size: 12px;
+
+    }
+    .typeofcase{
+      margin-left:15px;
+      margin-top:-30px;
+      font-size: 12px;
+    }
+    .delbutton{
+margin-left: 10px;
+width: 45px;
+font-size: 10px;
+    }
+    .button-viewfilingacceptcase{
+width: 45px;
+font-size: 10px;
+margin-left: 20px;
+
+    }
+    .pdf-affiiii{
+      height: 25px;
+      margin-left:-10px
+    }
+    .capone{
+      font-size: 12px;
+
+    }
+    .pdf-affiiidocx{
+      height: 25px;
+      margin-left:-20px
+  
+  
+    }
+    .captwo{
+      font-size: 12px;
+    }
+  }
+
+
+  @media (max-width: 750px) {
+    .fileview-image{
+      position: relative;
+      height:200px;
+      max-width: 100%;
+      margin-top: -80px;
+      margin-left: 20%;
+    }
+    .lawyernameviewfiling{
+      font-weight: bold;
+      font-size:13px;
+      margin-left: -25px;
+    }
+    .partynamefilingview{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:-20px;
+      margin-bottom: -300px;
+    }
+    .casetypefiling{
+      font-weight: bold;
+      font-size:13px;
+      margin-left: 10px;
+      margin-top: 120px;
+    }
+    .casetypeheading{
+      margin-left: -10px;
+    }
+    .muq{
+      margin-top: 90px;
+    }
+    .plaintshift{
+      font-weight: bold;
+      font-size:13px;
+      margin-left: -10px;
+    }
+    .docxshift{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:-5px;
+      margin-top: -30%;
+
+    }
+    .accbtn{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:-30px;
+    }
+    .dismissbtn{
+      font-weight: bold;
+      font-size:13px;
+      margin-left:10px
+    }
+    .lawyernameviewfile{
+      margin-left:-10px;
+      margin-top:-30px;
+      font-size: 12px;
+    }
+    .partynamefiling{
+      margin-left:17px;
+      margin-top:-10px;
+      font-size: 12px;
+
+    }
+    .typeofcase{
+      margin-left:15px;
+      margin-top:-30px;
+      font-size: 12px;
+    }
+    .delbutton{
+margin-left: 10px;
+width: 45px;
+font-size: 10px;
+    }
+    .button-viewfilingacceptcase{
+width: 45px;
+font-size: 10px;
+margin-left: 20px;
+
+    }
+    .pdf-affiiii{
+      height: 25px;
+      margin-left:-10px
+    }
+    .capone{
+      font-size: 12px;
+
+    }
+    .pdf-affiiidocx{
+      height: 25px;
+      margin-left:-20px
+  
+  
+    }
+    .captwo{
+      font-size: 12px;
+    }
+  }
+
+
+
+
+ 

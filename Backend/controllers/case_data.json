@@ -1,0 +1,274 @@
+﻿[
+    
+        {
+           
+            "caseCode": "4039",
+            "caseName": "Ist Appeal",
+            "Caseno": "1",
+            "Caseyear": "2003",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "United Bank Limited V/S M/s Pak. Libya Holding Co.(Pvt) Ltd.",
+            "Matter": "NATURE OF CASE NOT ENTERED",
+            "LastHearing": "16-Mar-20",
+            "NextDate": "Not Available",
+            "pdf":"http://localhost:3000/static/media/1_2003_united.PNG.9b4ec0fe.pdf"
+            
+        },
+        {
+            
+            "caseCode": "172494",
+            "caseName": "Const. P.",
+            "Caseno": "1052",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Karim Bux V/S Province of Sindh and Ors",
+            "Matter": "SERVICE",
+            "LastHearing": "10-Mar-20",
+            "NextDate": "13-Jan-21",
+            "pdf":"http://localhost:3000/static/media/1052_2014_karium_box.PNG.a0f02dc1.pdf"
+        },
+        {
+            
+            "caseCode": "172497",
+            "caseName": "Const. P.",
+            "Caseno": "839",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Kiusar Parveen V/S Province of Sindh and Ors",
+            "Matter": "SERVICE",
+            "LastHearing": "19-Oct-18",
+            "NextDate": "14-Jan-21",
+            "pdf":"http://localhost:3000/static/media/kiusar_parveen_839_2014.e787effe.pdf"
+        },
+        {
+            
+            "caseCode": "210070",
+            "caseName": "I.T.R.A",
+            "Caseno": "177",
+            "Caseyear": "2015",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "THE COMMISSIONER INLAND REVENUE V/S M/S MY BANK LIMITED",
+            "Matter": "INCOME TAX",
+            "LastHearing": "5-Apr-18",
+            "NextDate": "10-Feb-21",
+            "pdf":"http://localhost:3000/static/media/117_2015_commission_inland.73bc8bfd.pdf"
+        },
+        {
+            
+            "caseCode": "210072",
+            "caseName": "I.T.R.A",
+            "Caseno": "179",
+            "Caseyear": "2015",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "THE COMMISSIONER INLAND REVENUE V/S M/S NBA EXCHANGE COMPANY LTD",
+            "Matter": "INCOME TAX",
+            "LastHearing": "21-Oct-20",
+            "NextDate": "12-Jan-21",
+            "pdf":"http://localhost:3000/static/media/179_2015_commisnor.93e3aaaa.pdf"
+        },
+        {
+            
+            "caseCode": "172263",
+            "caseName": "Spl. Cus. Ref. A.",
+            "Caseno": "111",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "The Additional Director DGI&I-FBR V/S Tayab",
+            "Matter": "CUSTOM MATTER",
+            "LastHearing": "2-Oct-20",
+            "NextDate": "20-Jan-21",
+            "pdf":"http://localhost:3000/static/media/111_2014_aditional_director.b2878ce0.pdf"
+        },
+        {
+            
+            "caseCode": "172264",
+            "caseName": "Spl. Cus. Ref. A.",
+            "Caseno": "112",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "The Additional Director DGI&I-FBR V/S M/s. Reckitt Benckiser Pakistan Ltd.",
+            "Matter": "CUSTOM MATTER",
+            "LastHearing": "20-Nov-15",
+            "NextDate": "15-Jan-21",
+            "pdf":"http://localhost:3000/static/media/112_2014_addition.4c96ff73.pdf"
+        },
+        {
+            "#": "8",
+            "caseCode": "172400",
+            "caseName": "Const. P.",
+            "Caseno": "996",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Muhammad Nawaz V/S Fed. of Pakistn and Ors",
+            "Matter": "MISSING PERSONS",
+            "LastHearing": "11-Mar-20",
+            "NextDate": "13-Jan-21",
+            "pdf":"http://localhost:3000/static/media/996_against_order_nawaz.c7f6fbf6.pdf"
+        },
+        {
+            
+            "caseCode": "172402",
+            "caseName": "Const. P.",
+            "Caseno": "901",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Muhammad Farhan Siddiqi V/S Province of Sindh and ORs",
+            "Matter": "SERVICE",
+            "LastHearing": "23-Oct-19",
+            "NextDate": "18-Jan-21",
+            "pdf":"http://localhost:3000/static/media/901_2014.44f30390.pdf"
+        },
+        {
+            
+            "caseCode": "4411",
+            "caseName": "L.R.A.",
+            "Caseno": "10",
+            "Caseyear": "2006",
+            "Bench": "S",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Sindh Club V/S Sindh Club Employees Union & 2 Ors",
+            "Matter": "NATURE OF CASE NOT ENTERED",
+            "LastHearing": "19-Dec-08",
+            "NextDate": "Not Available",
+            "pdf":"http://localhost:3000/static/media/10_2006_sindhclub.PNG.435f32da.pdf"
+        },
+        {
+            
+            "caseCode": "4412",
+            "caseName": "L.C.A",
+            "Caseno": "10",
+            "Caseyear": "2006",
+            "Bench": "S",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Pervaiz Ali Khan V/S Irshad S. Kassam & 17 Ors",
+            "Matter": "NATURE OF CASE NOT ENTERED",
+            "LastHearing": "30-Oct-06",
+            "NextDate": "Not Available",
+            "pdf":"http://localhost:3000/static/media/10_2006_pervaiz.5b0f5abb.pdf"
+        },
+        {
+            
+            "caseCode": "239864",
+            "caseName": "Suit",
+            "Caseno": "1048",
+            "Caseyear": "2017",
+            "Bench": "S",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Prof. Ejaz Ahmed Farooqui. V/S Federation of Pakistan & Others.",
+            "Matter": "DECLARATION",
+            "LastHearing": "1-Apr-19",
+            "NextDate": "Not Available",
+            "pdf":"http://localhost:3000/static/media/1048_2017_profes.5dc84585.pdf"
+        },
+        {
+            
+            "caseCode": "254100",
+            "caseName": "Spl. Cus. Ref. A.",
+            "Caseno": "857",
+            "Caseyear": "2017",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Collector of Customs V/S M/s. Osaka Electronic & Ind. Co.",
+            "Matter": "CUSTOM MATTER",
+            "LastHearing": "24-Nov-20",
+            "NextDate": "19-Jan-21",
+            "pdf":"http://localhost:3000/static/media/857_2017_orient.0a13db65.pdf"
+        },
+        {
+            
+            "caseCode": "172958",
+            "caseName": "Const. P.",
+            "Caseno": "1240",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Exide Pakistan Ltd V/S Fed. of Pakistan and Ors",
+            "Matter": "TAX MATTER",
+            "LastHearing": "26-Feb-20",
+            "NextDate": "Not Available",
+            "pdf":"http://localhost:3000/static/media/1240_2014_exide.PNG.5b25adc2.pdf"
+        },
+        {
+            
+            "caseCode": "172959",
+            "caseName": "Const. P.",
+            "Caseno": "1159",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Orient Builders & Developers and Ors V/S Province of Sindh and Ors",
+            "Matter": "CANCELLATION OF PLOT",
+            "LastHearing": "25-Sep-19",
+            "NextDate": "13-Jan-21",
+            "pdf":"http://localhost:3000/static/media/1159_2014_orient.PNG.20b4e6a8.pdf"
+        },
+        {
+            
+            "caseCode": "4578",
+            "caseName": "Suit",
+            "Caseno": "1001",
+            "Caseyear": "2004",
+            "Bench": "S",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "ARIF HASHWANI & ORS V/S SADRUDDIN HASHWANI & OTHERS",
+            "Matter": "NATURE OF CASE NOT ENTERED",
+            "LastHearing": "12-Nov-19",
+            "NextDate": "2-Feb-21",
+            "pdf":"http://localhost:3000/static/media/1001_2014_arifhashmi.60a56854.pdf"
+        },
+        {
+            "#": "17",
+            "caseCode": "2514",
+            "caseName": "Suit",
+            "Caseno": "-693",
+            "Caseyear": "2005",
+            "Bench": "S",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "SHAHMEELA JAWAID V/S MUHAMMAD ANEES & ORS.",
+            "Matter": "EXAMINATION",
+            "LastHearing": "6-May-13",
+            "NextDate": "Not Available",
+            "pdf":"http://localhost:3000/static/media/_639_shamala_2005.f145de99.pdf"
+        },
+       
+        {
+            
+            "caseCode": "172404",
+            "caseName": "Const. P.",
+            "Caseno": "999",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Murad Chang V/S Province of Sindh and Ors",
+            "Matter": "LAND MATTERS",
+            "LastHearing": "26-Sep-19",
+            "NextDate": "14-Jan-21",
+            "pdf":"http://localhost:3000/static/media/Murad2014.PNG.422bb657.pdf"
+        },
+        {
+           
+            "caseCode": "172405",
+            "caseName": "Const. P.",
+            "Caseno": "1014",
+            "Caseyear": "2014",
+            "Bench": "D",
+            "Circuitcode": "Karachi",
+            "CASETITLE": "Imran Ali V/S Province of Sindh and Ors",
+            "Matter": "SERVICE",
+            "LastHearing": "13-Nov-19",
+            "NextDate": "18-Jan-21",
+            "pdf":"http://localhost:3000/static/media/imran2014.PNG.4f2491f7.pdf"
+        }
+    
+
+]
+

@@ -1,0 +1,70 @@
+.proceeding-case-no{
+  margin-left: -80%;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.option-proceding-case-no{
+  width: 20%;
+  height: 40px;
+  margin-left: -74%;
+}
+.proceeding-case-year{
+  margin-top: -70px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-left: 40%;
+}
+.option-proceding-year{
+  width: 20%;
+  height: 40px;
+  margin-left: 40%;
+}
+
+.btnproceeding{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  background-color: rgb(105, 105, 236);
+  border:rgb(105, 105, 236);
+  color:white;
+  width:20%;
+  height: 40px;
+  
+  margin-left: 30%;
+
+
+}
+.pro-search{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  margin-left: 20px;
+}
+.resssjjk-image{
+  margin-top: -80px;
+  margin-left: 30%;
+}
+@media (max-width: 600px) {
+  .resssjjk-image{
+      position: relative;
+      max-width: 100%;
+      margin-top: -80px;
+      margin-left: -5%;
+  }
+  .btnproceeding{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    background-color: rgb(105, 105, 236);
+    border:rgb(105, 105, 236);
+    color:white;
+    width:60%;
+    height: 40px;
+    
+    margin-left: 20%;
+  
+  
+  }
+}

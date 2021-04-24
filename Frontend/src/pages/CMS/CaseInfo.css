@@ -1,0 +1,332 @@
+
+.case-no-caseinfo{
+    margin-left: -80%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.caseyear-caseinfo{
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -80px;
+}
+
+.caseno-cms{
+    width: 20%;
+    height:40px;
+    margin-left: -75%;
+    margin-top: 15px;
+}
+.caseyear-cms{
+    width: 20%;
+    height:40px;
+    margin-left: 5%;
+    margin-top: 13px;
+}
+.cms-update-asd{
+    margin-top: 70px;
+    margin-right: -20%;
+    margin-left: 25%;
+    width:10%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+    background-color: rgb(120, 151, 219);
+    color:white;
+    font-weight: bold;
+    border-color:  rgb(120, 151, 219);
+    
+}
+.case-year-info{
+    margin-left: -60px;
+}
+.party-caseinfo{
+    margin-left: -160px;
+}
+.lasthearing-caseinfo{
+    margin-left: -50px;
+}
+.nexthearing-caseinfo{
+    margin-left: -40px;
+}
+.casestatus-caseinfo{
+    margin-right: -70px;
+}
+
+.caseinfo-image{
+    position: relative;
+    max-width: 100%;
+    margin-left: 25%;
+  }
+  .caseinfo-image__image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .update-case-info-cms{
+    background-color: rgb(120, 151, 219);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width:10%;
+    height: 40px;
+    border: rgb(120, 151, 219);
+    margin-left: 20px;
+    margin-top: 40px;
+
+  }
+  .colll-code{
+    font-weight: bold;
+    margin-left: 115px; 
+  }
+  .benchhhhh{
+    font-weight: bold;
+    margin-left: 120px; 
+  }
+
+  .co-case-yearrrrr{
+    font-weight: bold;
+    margin-left: 350px; 
+  }
+
+  input[type="teexxt"]{
+    width:50%
+
+  }
+  input[type="ttextt"]{
+    width:80%;
+    margin-left:-90px
+
+  }
+ textarea[type="tttext"]{
+    width:90%;
+    height:100px;
+    margin-left: -90px;
+    
+    
+
+  }
+  input[type="ttttext"]{
+    width:80%;
+    
+
+  }
+  input[type="textnext"]{
+    width:80%;
+    margin-left:-50px
+
+    
+
+  }
+  input[type="textstatus"]{
+    width:80%;
+    margin-left:-90px
+
+
+  }
+
+  
+  
+
+  .update-case-info-cms-btn{
+width:120%;
+background-color: rgb(120, 151, 219);;
+color:white;
+font-family: 'Times New Roman', Times, serif;
+border-color: rgb(120, 151, 219);
+text-align: center;
+font-weight: bold;
+height: 30px;
+margin-left: 1200%;
+margin-top: -60px;
+  }
+
+  
+  
+
+@media (max-width: 600px) {
+  input[ type="teexxt"]{
+    width:50px
+
+  }
+  input[ type="ttextt"]{
+    width:90px;
+    margin-left:-10px;
+    margin-top:30px
+
+  }
+  textarea[type="tttext"]{
+    width:190px;
+    margin-left:-10px;
+    margin-top:30px
+  }
+  input[ type="ttttext"]{
+    width:90px;
+    margin-left:-10px;
+    margin-top:30px
+  }
+  input[type="textnext"]{
+    width:90px;
+    margin-left:-45px;
+    margin-top:40px
+  }
+  input[ type="textstatus"]{
+    width:90px;
+    margin-left:-45px;
+    margin-top:40px
+  }
+  .update-case-info-cms-btn{
+    width:120%;
+background-color: rgb(120, 151, 219);;
+color:white;
+font-family: 'Times New Roman', Times, serif;
+border-color: rgb(120, 151, 219);
+text-align: center;
+font-weight: bold;
+height: 30px;
+margin-left: -380%;
+margin-top: 40px;
+
+  }
+  .co-case-yearrrrr{
+    margin-left: 40px;
+  }
+  .caseyear-caseinfo{
+    margin-left: 10px;
+    margin-top: -95px;
+    width:90px
+
+}
+.party-caseinfo{
+    margin-left: -160px;
+}
+  .caseno-cms{
+    width: 20%;
+    height:40px;
+    margin-left: -65%;
+    margin-top: 15px;
+}
+  .case-no-caseinfo{
+    margin-left: -65%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+    .caseinfo-image{
+      position: relative;
+      height:200px;
+      max-width: 100%;
+      margin-top: -80px;
+      margin-left: 19%;
+  }
+  .cms-update-asd{
+    margin-top: 70px;
+    margin-right: -20%;
+    margin-left: 25%;
+    width:20%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+    background-color: rgb(120, 151, 219);
+    color:white;
+    font-weight: bold;
+    border-color:  rgb(120, 151, 219);
+    
+}
+}
+@media (max-width: 950px) {
+  input[ type="teexxt"]{
+    width:50px
+
+  }
+  input[ type="ttextt"]{
+    width:90px;
+    margin-left:-10px;
+    margin-top:30px
+
+  }
+  textarea[type="tttext"]{
+    width:190px;
+    margin-left:-10px;
+    margin-top:30px
+  }
+  input[ type="ttttext"]{
+    width:90px;
+    margin-left:-10px;
+    margin-top:30px
+  }
+  input[type="textnext"]{
+    width:90px;
+    margin-left:-45px;
+    margin-top:40px
+  }
+  input[ type="textstatus"]{
+    width:90px;
+    margin-left:-45px;
+    margin-top:40px
+  }
+  .update-case-info-cms-btn{
+    width:120%;
+background-color: rgb(120, 151, 219);;
+color:white;
+font-family: 'Times New Roman', Times, serif;
+border-color: rgb(120, 151, 219);
+text-align: center;
+font-weight: bold;
+height: 30px;
+margin-left: -380%;
+margin-top: 40px;
+
+  }
+  .co-case-yearrrrr{
+    margin-left: 40px;
+  }
+  .caseyear-caseinfo{
+    margin-left: 10px;
+    margin-top: -95px;
+    width:90px
+
+}
+.party-caseinfo{
+    margin-left: -160px;
+}
+  .caseno-cms{
+    width: 20%;
+    height:40px;
+    margin-left: -65%;
+    margin-top: 15px;
+}
+  .case-no-caseinfo{
+    margin-left: -65%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+    .caseinfo-image{
+      position: relative;
+      height:200px;
+      max-width: 100%;
+      margin-top: -80px;
+      margin-left: 19%;
+  }
+  .cms-update-asd{
+    margin-top: 70px;
+    margin-right: -20%;
+    margin-left: 25%;
+    width:20%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+    background-color: rgb(120, 151, 219);
+    color:white;
+    font-weight: bold;
+    border-color:  rgb(120, 151, 219);
+    
+}
+.case-number{
+  margin-left:80px
+}
+}

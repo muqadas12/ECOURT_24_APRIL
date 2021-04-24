@@ -1,0 +1,52 @@
+.top-image{
+   
+    margin-top: -80px;
+}
+.lawyer-name{
+    margin-bottom: -40px;
+}
+.l-n{
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+input[type="texts"]{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+input[type="textss"]{
+    margin-top: 30px;
+    margin-left: 40px;
+    
+}
+input[type="file"]{
+    margin-top: 30px;
+    margin-left: 40px;
+    
+}
+.p-n{
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.u-c{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.submit-button{
+    border: none;
+    background-color: rgb(187, 35, 85);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin-left: 45px;
+    margin-top: 30px;
+
+}

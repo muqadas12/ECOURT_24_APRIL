@@ -1,0 +1,32 @@
+.block-example {
+    width: 80rem;
+    height: 4rem;
+    /* float: left; */
+    margin: 20px;
+    margin-top: -10px;
+  
+    background-color: rgb(18, 248, 171);
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+    overflow:hidden
+  }
+  .para{
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin:10px;
+  }
+  @media screen and (max-width: 600px) {
+    .block-example{
+      width: 85%;
+    
+    font-size: 10px;
+    
+    margin-left: 30px;
+    margin-top:-10px;
+
+    }
+
+    
+  }

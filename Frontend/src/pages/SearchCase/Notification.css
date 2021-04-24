@@ -1,0 +1,62 @@
+.l-notify-name{
+  text-align: center;
+}
+.Label{
+  align-items: center;
+}
+.form-not{
+  align-items: center;
+  margin-left: 200px;
+  width:400px
+}
+.formmemail-not{
+  margin-left: 200px;
+  width:400px
+
+}
+
+.formm-not{
+  align-items: center;
+  margin-left: 200px;
+  width:120px
+}
+.h-send-notice{
+  margin-top: 50px;
+  margin-left: 500px;
+}
+/* Input[type="email"]{
+  width:400px
+} */
+
+@media (max-width: 600px) {
+  .h-send-notice{
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  .form-not{
+    margin-left: 10px;
+    width:280px
+   
+  }
+  .formmemail-not{
+    margin-left: 10px;
+    width:460px
+  }
+  
+}
+@media (max-width: 750px) {
+  .h-send-notice{
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  .form-not{
+    margin-left: 10px;
+    width:280px
+   
+  }
+  .formmemail-not{
+    margin-left: 10px;
+    width:470px
+  }
+  
+}

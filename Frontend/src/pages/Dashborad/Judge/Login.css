@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    input[type="passwordd"]{
+      width:60%
+  
+    }
+    input[type="email"]{
+      width:60%
+  
+    }
+    
+  }

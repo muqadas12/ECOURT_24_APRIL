@@ -1,0 +1,129 @@
+.text{
+    font-weight: bold;
+}
+.case-number{
+    margin-left: -80px;
+    font-weight: bold;
+}
+.co-case-num{
+    margin-left: 45px;
+    font-weight: bold;
+}
+.co-case-year{
+    margin-left: -90px;
+    font-weight: bold;
+
+}
+.textcasecode{
+    font-weight: bold;
+}
+.col-coddde{
+    margin-left: 83px;
+    font-weight: bold;
+}
+.col-tittle{
+    margin-left: 85px;
+    font-weight: bold;
+
+}
+.detailcase{
+    margin-left: 55px;
+    font-weight: bold;
+}
+.co-case-yeear{
+    margin-left: 55px;
+    font-weight: bold;
+}
+.bennch{
+    margin-left: 48px;
+    font-weight: bold;
+}
+
+.col-code{
+    margin-left: 89px;
+    font-weight: bold;
+
+}
+.col-title{
+    margin-left: 10%;
+    font-weight: bold;
+
+}
+.l-hh{
+    margin-left: 120px;
+    font-weight: bold;
+}
+.n-dd{
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+
+
+
+
+.l-h{
+    margin-left: 19%;
+    font-weight: bold;
+}
+.n-d{
+    margin-left: 40px;
+    font-weight: bold;
+}
+.jud-online-search-btn{
+    background-color: black;
+    color:white;
+    width:90px;
+    border:none;
+    height:30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 650px;
+    font-family: 'Times New Roman', Times, serif;
+        }
+       
+@media (max-width: 600px) {
+    .jud-online-search-btn{
+        background-color: black;
+        color:white;
+        width:90px;
+        border:none;
+        height:30px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 30px;
+        margin-left: 40%;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .textcasecode{
+        font-weight: bold;
+        margin-left: -20px;
+    }
+    .case-number{
+        margin-left: 5px;
+        font-weight: bold;
+    }
+}
+@media (max-width: 800px) {
+    .jud-online-search-btn{
+        background-color: black;
+        color:white;
+        width:90px;
+        border:none;
+        height:30px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 30px;
+        margin-left: 40%;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .textcasecode{
+        font-weight: bold;
+        margin-left: -20px;
+    }
+    .case-number{
+        margin-left: 5px;
+        font-weight: bold;
+    }
+}

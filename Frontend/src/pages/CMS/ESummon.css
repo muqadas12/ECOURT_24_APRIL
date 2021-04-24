@@ -1,0 +1,201 @@
+.summon-name-case-no{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    margin-right: 90%;
+    font-size: 20px;
+
+}
+.acceptedcasenumber{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    margin-top: -20px;
+
+
+}
+.acsummon{
+    margin-left: 110px;
+}
+.accepteddateofhearing{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    margin-left: 575px;
+    margin-top: -35px;
+
+}
+.doh{
+    margin-left: -15px;
+    margin-top: -80px;
+}
+.acceptepartyesummon{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    margin-left: 995px;
+    margin-top: -30px;
+
+
+}
+
+.acceptedpname{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    margin-left: 250px
+}
+.hearingdate{
+    font-family: 'Times New Roman', Times, serif; 
+    margin-right: 300px;
+    /* margin-left: -90%; */
+    /* margin-left: -90%; */
+
+}
+.casenumacc{
+    font-family: 'Times New Roman', Times, serif; 
+    margin-right: -230px;
+    /* margin-left: -30% */
+
+}
+.option-summon-case-no{
+    width: 20%;
+    height: 40px;
+    margin-left: -60%;
+    margin-top: -40px;
+}
+
+.summon-name-case-year{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 90%;
+    margin-top: 50px;
+}
+
+
+.option-summon-year{
+    width: 20%;
+    height: 40px;
+    margin-left: -60%;
+    margin-top: -40px;
+}
+.btnsummon{
+    border:none;
+   background-color: rgb(7, 8, 8); 
+   font-family: 'Times New Roman', Times, serif; 
+  font-weight: bold;
+    font-size: 20px;
+    width:90px;
+    height:40px;
+    border-color: rgb(7, 8, 8); 
+    margin-left: 20px;
+    color:white
+}
+
+.n-cssss{
+    font-family: 'Times New Roman', Times, serif; 
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 30px;
+}
+.casestatus{
+    margin-top: -10px;
+
+}
+.spn{
+   
+    margin-right:135px;
+}
+
+
+.cnns{
+    margin-left: 270px;
+}
+.ressss-image{
+    position: relative;
+    max-width: 100%;
+    margin-top: -80px;
+    margin-left: 28%;
+}
+
+@media (max-width: 600px) {
+    .ressss-image{
+        position: relative;
+        height:200px;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: 9%;
+    }
+    .cause-list-search{
+        font-size:17px
+    }
+    .acceptepartyesummon{
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        margin-left: 355px;
+        margin-top: -25px;
+    
+    
+    }
+    .acceptedcasenumber{
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        margin-left: -90px
+    }
+    .accepteddateofhearing{
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        margin-left: 195px;
+        margin-top:-25px
+
+        /* margin-right: 450px */
+    }
+    .cnns{
+        margin-left: -290px;
+    }
+    .doh{
+        /* margin-left: 580px; */
+        margin-right: -100%
+
+    }
+}
+
+
+
+@media (max-width: 850px) {
+    .ressss-image{
+        position: relative;
+        height:200px;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: 9%;
+    }
+    .cause-list-search{
+        font-size:17px
+    }
+    .acceptepartyesummon{
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        margin-left: 355px;
+        margin-top: -25px;
+    
+    
+    }
+    .acceptedcasenumber{
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        margin-left: -90px
+    }
+    .accepteddateofhearing{
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        margin-left: 195px;
+        margin-top:-25px
+
+        /* margin-right: 450px */
+    }
+    .cnns{
+        margin-left: -290px;
+    }
+    .doh{
+        /* margin-left: 580px; */
+        margin-right: -100%
+
+    }
+}

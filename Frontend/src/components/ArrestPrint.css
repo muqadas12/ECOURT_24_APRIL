@@ -1,0 +1,94 @@
+.caseno-cmsprintarrestinfo{
+    margin-top: -29px;
+    margin-left: -500px;
+}
+/* .case-no-casenumberofarrestwarrant{
+    margin-left: -90%;
+    margin-top: 30%;
+} */
+.backarrest{
+    background-color:wheat;
+    border: 12px solid rgb(32, 30, 30);
+}
+.districtcourt{
+    text-align: center;
+    margin-top: -200px;
+}
+.imgofarrestwarrant{
+    width:160px;
+    margin-left: 75%;
+    margin-top: 20px;
+}
+.case-no-casenumberofarrestwarrant{
+    margin-top: -130px;
+    margin-left: -990px;
+}
+ .casenumberofprintarrest{
+    margin-top:-155px;
+    margin-left: 170px;
+}
+.divcasenum{
+    margin-top: -290px;
+}
+.yr{
+    margin-top:-10px;
+}
+.hrcasenumber{
+    width:90px;
+    border-color:black;
+    margin-left: 110px;
+    margin-top: -5px;
+
+}
+.hradd{
+    width:90px;
+    border-color:black;
+}
+input[type="textcasenum"]{
+    border:none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    /* border-color: palevioletred; */
+    width: 150px;
+    text-align: center;
+    background-color:wheat
+
+}
+.toparrestwarrant{
+    text-align: center;
+
+}
+input[type="textcasenumaddress"]{
+    border:none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    /* border-color: palevioletred; */
+    width: 250px;
+    text-align: center;
+    background-color:wheat
+
+}
+input[type="date"]{
+    border:none;
+
+}
+@media (max-width: 600px) {
+    input[type="textcasenumaddress"]{
+        border:none;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        /* border-color: palevioletred; */
+        width: 250px;
+        text-align: center;
+        background-color:wheat;
+        margin-left:90px
+    
+    }
+    .case-no-casenumberofarrestwarrant{
+        margin-left: -190px;
+        font-size: 14px;
+    }
+    .caseno-cmsprintarrestinfo{
+        margin-left: 200px;
+    }
+}

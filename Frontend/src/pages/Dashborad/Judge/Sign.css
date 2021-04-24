@@ -1,0 +1,33 @@
+
+.already-user{
+    margin-left: 170px;
+  }
+.Form {
+      width: 500px;
+      margin: auto;
+}
+   
+.judge-sign{
+    margin-top: 20px;
+   margin-left: 30%;
+   color:crimson
+}
+.judge-sign-btn{
+    width:100px;
+    height:45px;
+    color:white;
+    background-color:lightcoral;
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  input[type="passwordd"]{
+    width:80%
+
+  }
+  input[type="email"]{
+    width:80%
+
+  }
+  
+}

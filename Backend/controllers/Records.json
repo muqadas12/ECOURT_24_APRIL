@@ -1,0 +1,44 @@
+
+
+[
+    {"Name":"Mr. Afnan Karim Kundi",
+    "Party":"Muhammad Hayat",
+    "Affidavit":"http://localhost:3000/static/media/Affidavit_h.a4731afb.pdf",
+    "VaqalatNama":"http://localhost:3000/static/media/vakalat_kundi.3ffe9d68.pdf",
+    "witness":"http://localhost:3000/static/media/Witness_2_services.94edf277.pdf"
+    
+    },
+    {"Name":"Advocate General, KPK Mr. Amjad Ali",
+    "Party":"Akbar Ali v. The State",
+    "Affidavit":"http://localhost:3000/static/media/Affidavit_a.5721e940.pdf",
+    "VaqalatNama":"http://localhost:3000/static/media/vakalat_amjad.1f272998.pdf",
+    "witness":"http://localhost:3000/static/media/Witness_2_services.94edf277.pdf"
+   
+},
+
+    {"Name":"Mr. Tanveer-ul-Islam",
+    "Party":"Farhan Aslam & others v. Mst. Nuzba Shaheen & another",
+    "Affidavit":"http://localhost:3000/static/media/Affidavit_f.4a48f716.pdf",
+    "VaqalatNama":"http://localhost:3000/static/media/vakalat_tanveer.b6b42428.pdf",
+    "witness":"http://localhost:3000/static/media/Witness_2_services.94edf277.pdf"
+   
+
+},
+
+    {"Name":"Mr. Imran Fazal",
+     "Party":"Dr. Zohara Jabeen, etc v. Muhammad Aslam Pervaiz",
+     "Affidavit":"http://localhost:3000/static/media/Affidavit_d.dc17e4db.pdf",
+     "VaqalatNama":"http://localhost:3000/static/media/vakalat_imran.407e38b4.pdf",
+     "witness":"http://localhost:3000/static/media/Witness_afnan_5.51bc86e0.pdf"
+    
+     },
+     
+    {"Name":"Mr. Afaq",
+    "Party":"Muhammad Nawaz",
+    "Affidavit":"http://localhost:3000/static/media/Affidavit_mn.5ee84610.pdf",
+    "VaqalatNama":"http://localhost:3000/static/media/vakalat_afnan.998392b3.pdf",
+    "witness":"http://localhost:3000/static/media/Witness_afnan_5.51bc86e0.pdf"
+    
+    }
+
+]

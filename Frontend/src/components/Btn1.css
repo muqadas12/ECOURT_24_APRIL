@@ -1,0 +1,22 @@
+.ucl-btn{
+    background-color: yellow;
+    margin-left: 30px;
+}
+
+.btn{
+    margin-left: 510px;
+    margin-top: 90px;
+}
+@media screen and (max-width: 600px) {
+    .btn {
+      
+      width: 85%;
+      
+      font-size: 10px;
+      font-weight: bold;
+      margin-left: 40px;
+      margin-top:30px;
+  
+      /* The width is 100%, when the viewport is 800px or smaller */
+    }
+}

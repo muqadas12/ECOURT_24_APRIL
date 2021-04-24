@@ -1,0 +1,129 @@
+.judcms{
+    font-weight: bold;
+}
+textarea[type="textcasenumberjudgmet"]{
+margin-left: -8%;
+height:100px;
+width:130px
+}
+textarea[type="textcasesubjectjudgment"]{
+    margin-left: -150px;
+
+}
+textarea[type="textcasenojudgment"]{
+    margin-left: -90px;
+    height: 50px;
+    
+
+}
+textarea[type="textcaseetitleejudg"]{
+    margin-left: -250px;
+    height: 50px;
+
+}
+textarea[type="textcaseyearjudgment"]{
+    margin-left: -150px;
+height:100px;
+width:160px
+}
+textarea[type="textpartynamejudgment"]{
+    margin-left: -100px;
+    height:100px;
+    width:160px
+}
+textarea[type="textlawyernamejudg"]{
+    height:100px;
+    width:160px
+}
+.lawyer-update-listcms{
+    font-weight: bold;
+    margin-left: 200px;
+
+}
+.cncms{
+    font-weight: bold;  
+}
+.ctcms{
+    font-weight: bold;
+}
+textarea[type="textfixtime"]{
+    height: 50px;
+    margin-left: -280px;
+
+
+}
+.btn-update-judg-cms{
+    background-color: rgb(235, 91, 115);
+    color:wheat;
+    font-weight: bold;
+    width:70px;
+    height: 30px;
+    margin-left: -190px;
+    text-align: center
+}
+@media (max-width: 600px) {
+    .causelist-image{
+        height:200px;
+        position: relative;
+        max-width: 100%;
+        margin-top: -80px;
+        margin-left: 19%;
+    }
+    textarea[type="textcasenumberjudgmet"]{
+        margin-left: -10px;
+        height:50px;
+        width:130px
+        }
+        textarea[type="textcasesubjectjudgment"]{
+            margin-left:-1px;
+            margin-top: 20px;
+        
+        }
+        textarea[type="textcasenojudgment"]{
+            margin-left: -5px;
+            margin-top: 20px;
+
+            height: 30px;
+            
+        
+        }
+        textarea[type="textcaseetitleejudg"]{
+            margin-left: -5px;
+            margin-top: 20px;
+
+            height: 50px;
+        
+        }
+        textarea[ type="textfixtime"]{
+            margin-left: -35px;
+            margin-top: 20px;
+
+            height: 50px;
+        
+        }
+        textarea[type="textcaseyearjudgment"]{
+            margin-left: -150px;
+        height:100px;
+        width:160px
+        }
+        textarea[type="textpartynamejudgment"]{
+            margin-left: -100px;
+            height:100px;
+            width:160px
+        }
+        textarea[type="textlawyernamejudg"]{
+            height:100px;
+            width:160px
+        }
+        .btn-update-judg-cms{
+            background-color: rgb(235, 91, 115);
+            color:wheat;
+            font-weight: bold;
+            width:70px;
+            height: 30px;
+            margin-left: -10px;
+            margin-top: 20px;
+            text-align: center
+        }
+    
+    }
